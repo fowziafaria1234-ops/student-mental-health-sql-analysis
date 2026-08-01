@@ -1,0 +1,62 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Student Mental Health SQL Analysis</title>
+<style>
+:root{--bg:#06151b;--panel:#0b222c;--panel2:#102a38;--text:#ecfeff;--muted:#94a3b8;--teal:#2dd4bf;--cyan:#38bdf8;--violet:#a78bfa;--gold:#fbbf24;--line:#1e3a46}
+*{box-sizing:border-box}html{scroll-behavior:smooth}body{margin:0;font-family:Inter,Segoe UI,Arial,sans-serif;background:radial-gradient(circle at 85% 0,#12344d 0,transparent 30%),linear-gradient(145deg,#06151b,#081f2c 55%,#111b34);color:var(--text);min-height:100vh}
+body:before{content:"";position:fixed;inset:0;pointer-events:none;background-image:linear-gradient(rgba(56,189,248,.04) 1px,transparent 1px),linear-gradient(90deg,rgba(45,212,191,.04) 1px,transparent 1px);background-size:42px 42px;mask-image:linear-gradient(to bottom,black,transparent 82%)}
+.hero{padding:56px max(24px,7vw) 92px;position:relative;overflow:hidden}.hero:after{content:"";position:absolute;width:420px;height:420px;border-radius:50%;right:-90px;top:-160px;background:radial-gradient(circle,var(--teal),transparent 68%);opacity:.18;filter:blur(12px);animation:breathe 7s ease-in-out infinite}.eyebrow{display:inline-flex;gap:8px;align-items:center;border:1px solid rgba(45,212,191,.35);background:rgba(15,118,110,.14);padding:8px 12px;border-radius:999px;color:#99f6e4;font-size:.82rem;letter-spacing:.08em;text-transform:uppercase}h1{font-size:clamp(2.4rem,6vw,5.3rem);line-height:.98;margin:22px 0 14px;max-width:920px}.grad{background:linear-gradient(90deg,var(--teal),var(--cyan),var(--violet));-webkit-background-clip:text;color:transparent}.hero p{max-width:800px;color:#cbd5e1;font-size:1.08rem;line-height:1.7}.privacy-orbit{position:absolute;right:9%;top:72px;width:210px;height:210px;border:1px solid rgba(56,189,248,.22);border-radius:50%;display:grid;place-items:center;animation:spin 18s linear infinite}.privacy-orbit:before,.privacy-orbit:after{content:"";position:absolute;border-radius:50%;border:1px solid rgba(167,139,250,.22)}.privacy-orbit:before{inset:26px}.privacy-orbit:after{inset:54px}.shield{font-size:64px;animation:counterspin 18s linear infinite}.wrap{max-width:1220px;margin:-46px auto 70px;padding:0 20px;position:relative}.glass{background:linear-gradient(145deg,rgba(15,42,54,.86),rgba(8,28,39,.9));border:1px solid rgba(148,163,184,.14);box-shadow:0 28px 70px rgba(2,6,23,.38);backdrop-filter:blur(16px)}.toolbar{padding:16px;border-radius:20px;display:flex;gap:14px;align-items:end;flex-wrap:wrap}.toolbar label{display:grid;gap:6px;color:var(--muted);font-size:.82rem}.toolbar select{min-width:210px;background:#071a23;color:var(--text);border:1px solid #1f4a5b;border-radius:12px;padding:11px 13px}.metrics{display:grid;grid-template-columns:repeat(4,1fr);gap:15px;margin:18px 0}.metric{padding:20px;border-radius:19px;position:relative;overflow:hidden}.metric:before{content:"";position:absolute;inset:0 0 auto;height:3px;background:var(--accent,var(--teal))}.metric span{font-size:.78rem;color:var(--muted);letter-spacing:.08em;text-transform:uppercase}.metric strong{display:block;font-size:2rem;margin:9px 0}.metric small{color:#b6c8d4}.grid{display:grid;grid-template-columns:1fr 1fr;gap:18px}.panel{padding:19px;border-radius:22px;transition:.3s}.panel:hover{transform:translateY(-4px);border-color:rgba(56,189,248,.34)}.panel.dim{opacity:.25;transform:scale(.985)}.panel-head{display:flex;justify-content:space-between;align-items:center;margin-bottom:10px}.panel-title{font-weight:700}.tag{font-size:.72rem;padding:6px 9px;border-radius:999px;background:rgba(56,189,248,.1);color:#7dd3fc;border:1px solid rgba(56,189,248,.2)}canvas{display:block;width:100%;height:auto;max-height:340px}.note{margin-top:18px;padding:17px 19px;border-radius:16px;border-left:4px solid var(--gold);background:rgba(251,191,36,.08);color:#d7e2e8}.footer{text-align:center;color:var(--muted);padding:24px 16px 42px}.pulse{display:inline-block;width:8px;height:8px;border-radius:50%;background:var(--teal);box-shadow:0 0 0 0 rgba(45,212,191,.65);animation:pulse 2s infinite}
+@keyframes breathe{50%{transform:scale(1.12);opacity:.25}}@keyframes spin{to{transform:rotate(360deg)}}@keyframes counterspin{to{transform:rotate(-360deg)}}@keyframes pulse{70%{box-shadow:0 0 0 14px rgba(45,212,191,0)}}
+@media(max-width:900px){.metrics{grid-template-columns:repeat(2,1fr)}.grid{grid-template-columns:1fr}.privacy-orbit{opacity:.28;right:-60px}}@media(max-width:520px){.metrics{grid-template-columns:1fr}.hero{padding-top:38px}.wrap{margin-top:-28px}}
+</style>
+</head>
+<body>
+<header class="hero">
+  <span class="eyebrow"><span class="pulse"></span> Privacy-aware SQL portfolio</span>
+  <h1>Student wellbeing, modelled with <span class="grad">care and clarity.</span></h1>
+  <p>A modern interactive view of synthetic cohort metrics built from relational tables, reusable SQL logic, validation checks and safer aggregate reporting controls.</p>
+  <div class="privacy-orbit" aria-hidden="true"><div class="shield">🛡️</div></div>
+</header>
+<main class="wrap">
+  <section class="toolbar glass">
+    <label>Focus view<select id="focus"><option value="all">All analytical views</option><option value="0">Wellbeing by programme</option><option value="1">Wellbeing by length of stay</option><option value="2">Stress by programme</option><option value="3">Support engagement</option></select></label>
+    <label>Motion<select id="motion"><option>On</option><option>Off</option></select></label>
+  </section>
+  <section class="metrics">
+    <article class="metric glass" style="--accent:#2dd4bf"><span>Students</span><strong data-count="900">0</strong><small>Pseudonymous analytical records</small></article>
+    <article class="metric glass" style="--accent:#38bdf8"><span>Average wellbeing</span><strong data-decimal="70.3">0</strong><small>0–100 scale</small></article>
+    <article class="metric glass" style="--accent:#a78bfa"><span>Average stress</span><strong data-decimal="45.9">0</strong><small>0–100 scale</small></article>
+    <article class="metric glass" style="--accent:#fbbf24"><span>Support engagement</span><strong data-suffix="%" data-decimal="7.4">0</strong><small>Any recorded support route</small></article>
+  </section>
+  <section class="grid">
+    <section class="panel glass" data-index="0"><div class="panel-head"><div class="panel-title">Wellbeing by programme</div><span class="tag">Cohort KPI</span></div><canvas id="chart0" width="760" height="320"></canvas></section>
+    <section class="panel glass" data-index="1"><div class="panel-head"><div class="panel-title">Wellbeing by length of stay</div><span class="tag">Trend</span></div><canvas id="chart1" width="760" height="320"></canvas></section>
+    <section class="panel glass" data-index="2"><div class="panel-head"><div class="panel-title">Stress by programme</div><span class="tag">Comparison</span></div><canvas id="chart2" width="760" height="320"></canvas></section>
+    <section class="panel glass" data-index="3"><div class="panel-head"><div class="panel-title">Support engagement</div><span class="tag">Privacy-safe total</span></div><canvas id="chart3" width="760" height="320"></canvas></section>
+  </section>
+  <aside class="note"><strong>Responsible-use note:</strong> this dashboard contains synthetic, pseudonymised data. It is not a clinical tool and should never be used to make decisions about individual students.</aside>
+</main>
+<footer class="footer">Faria Islam · SQL · privacy-aware reporting · reproducible analytics</footer>
+<script>
+const DATA=[
+{type:'bar',labels:['Arts', 'Health', 'Social Sciences', 'Business', 'Computing', 'Engineering'],values:[73.1, 71.2, 70.7, 70.5, 69.6, 67.1]},
+{type:'line',labels:['0–6 months', '7–12 months', '13–24 months', '25+ months'],values:[64.7, 66.3, 70.6, 72.7]},
+{type:'bar',labels:['Arts', 'Health', 'Social Sciences', 'Business', 'Computing', 'Engineering'],values:[45.5, 45.2, 44.9, 46.3, 46.6, 46.8]},
+{type:'donut',labels:['No recorded support','Recorded support'],values:[833,67]}
+];
+const C=['#2dd4bf','#38bdf8','#a78bfa','#fbbf24','#22d3ee','#818cf8'], grid='rgba(148,163,184,.14)', ink='#cbd5e1';
+let animate=true;
+document.getElementById('motion').addEventListener('change',e=>{animate=e.target.value==='On';renderAll()});
+document.getElementById('focus').addEventListener('change',e=>document.querySelectorAll('.panel').forEach(p=>p.classList.toggle('dim',e.target.value!=='all'&&p.dataset.index!==e.target.value)));
+function clear(ctx,w,h){ctx.clearRect(0,0,w,h);ctx.fillStyle='rgba(5,18,25,.18)';ctx.fillRect(0,0,w,h)}
+function rr(ctx,x,y,w,h,r,fill){ctx.beginPath();ctx.roundRect(x,y,w,h,r);ctx.fillStyle=fill;ctx.fill()}
+function bar(cv,d,p){const x=cv.getContext('2d'),w=cv.width,h=cv.height;clear(x,w,h);const max=Math.max(...d.values)*1.13,l=58,b=h-58,g=(w-l-25)/d.values.length,bw=g*.58;x.font='12px Segoe UI';x.fillStyle=ink;x.strokeStyle=grid;for(let i=0;i<5;i++){const y=28+(b-28)*i/4;x.beginPath();x.moveTo(l,y);x.lineTo(w-18,y);x.stroke()}d.values.forEach((v,i)=>{const bh=(b-30)*(v/max)*p,xx=l+i*g+g*.2,gr=x.createLinearGradient(0,b-bh,0,b);gr.addColorStop(0,C[i%C.length]);gr.addColorStop(1,'rgba(15,118,110,.35)');rr(x,xx,b-bh,bw,bh,8,gr);x.save();x.translate(xx+bw/2,b+18);x.rotate(-.28);x.textAlign='right';x.fillStyle=ink;x.fillText(d.labels[i],0,0);x.restore()})}
+function line(cv,d,p){const x=cv.getContext('2d'),w=cv.width,h=cv.height;clear(x,w,h);const max=Math.max(...d.values)*1.08,min=Math.min(...d.values)*.94,l=62,b=h-54,t=28,s=(w-l-30)/(d.values.length-1);x.strokeStyle=grid;for(let i=0;i<5;i++){const y=t+(b-t)*i/4;x.beginPath();x.moveTo(l,y);x.lineTo(w-20,y);x.stroke()}const pts=d.values.map((v,i)=>[l+i*s,b-(v-min)/(max-min)*(b-t)]);x.beginPath();x.moveTo(...pts[0]);pts.forEach((pt,i)=>{if(i/(pts.length-1)<=p)x.lineTo(...pt)});x.strokeStyle='#38bdf8';x.lineWidth=4;x.stroke();pts.forEach((pt,i)=>{if(i/(pts.length-1)<=p){x.beginPath();x.arc(pt[0],pt[1],6,0,Math.PI*2);x.fillStyle=C[i%C.length];x.fill();x.fillStyle=ink;x.textAlign='center';x.fillText(d.labels[i],pt[0],b+22)}})}
+function donut(cv,d,p){const x=cv.getContext('2d'),w=cv.width,h=cv.height;clear(x,w,h);const total=d.values.reduce((a,b)=>a+b,0);let st=-Math.PI/2;d.values.forEach((v,i)=>{const a=v/total*Math.PI*2*p;x.beginPath();x.arc(w*.36,h*.5,94,st,st+a);x.strokeStyle=C[i];x.lineWidth=38;x.lineCap='round';x.stroke();st+=v/total*Math.PI*2});x.fillStyle='#f8fafc';x.font='700 26px Segoe UI';x.textAlign='center';x.fillText(total,w*.36,h*.5+8);x.font='13px Segoe UI';x.textAlign='left';d.labels.forEach((lab,i)=>{x.fillStyle=C[i];x.fillRect(w*.61,74+i*42,14,14);x.fillStyle=ink;x.fillText(`${lab} — ${d.values[i]}`,w*.61+24,86+i*42)})}
+function renderAll(){DATA.forEach((d,i)=>{const cv=document.getElementById('chart'+i);let p=animate?0:1;function frame(){d.type==='bar'?bar(cv,d,p):d.type==='line'?line(cv,d,p):donut(cv,d,p);if(p<1){p=Math.min(1,p+.035);requestAnimationFrame(frame)}}frame()})}
+renderAll();
+const counters=[...document.querySelectorAll('[data-count],[data-decimal]')];counters.forEach(el=>{const end=Number(el.dataset.count||el.dataset.decimal),dec=el.dataset.decimal?1:0,suf=el.dataset.suffix||'';let st;function go(ts){st??=ts;const p=Math.min(1,(ts-st)/1100),v=end*(1-Math.pow(1-p,3));el.textContent=v.toFixed(dec)+suf;if(p<1)requestAnimationFrame(go)}requestAnimationFrame(go)});
+</script>
+</body></html>
