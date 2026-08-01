@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+title: "Student Mental Health SQL Analysis"
+message: "Please cite this portfolio project if you reuse it."
+type: software
+authors:
+  - family-names: Islam
+    given-names: Faria
+repository-code: "https://github.com/fowziafaria1234-ops/student-mental-health-sql-analysis"
+year: 2026
+license: MIT
