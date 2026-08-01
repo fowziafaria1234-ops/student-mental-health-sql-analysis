@@ -1,0 +1,901 @@
+student_key,programme,faculty,gender,international_flag,study_level,length_of_stay_months,avg_wellbeing,avg_stress,avg_sleep,avg_loneliness,used_support
+STU-00001,Arts,Humanities,Female,0,Undergraduate,37,78.33,42.2,6.73,45.23,0
+STU-00002,Engineering,Engineering,Male,0,Undergraduate,31,66.9,42.03,6.9,46.27,0
+STU-00003,Arts,Humanities,Female,1,Postgraduate,13,60.23,53.97,5.53,45.27,0
+STU-00004,Computing,Technology,Female,0,Undergraduate,6,75.4,38.67,6.1,42.67,0
+STU-00005,Engineering,Engineering,Female,1,Postgraduate,4,65.6,46.17,6.53,50.93,0
+STU-00006,Social Sciences,Social Sciences,Female,0,Undergraduate,41,75.2,33.67,6.67,56.83,0
+STU-00007,Business,Business,Female,0,Postgraduate,30,72.13,62.9,6.3,49.77,0
+STU-00008,Engineering,Engineering,Male,1,Postgraduate,36,79.23,39.27,7.17,52.83,0
+STU-00009,Engineering,Engineering,Female,1,Undergraduate,15,63.57,47.87,5.63,43.03,0
+STU-00010,Computing,Technology,Female,1,Postgraduate,3,53.57,56.03,5.47,50.17,1
+STU-00011,Computing,Technology,Female,0,Postgraduate,26,65.77,37.2,5.67,39.4,0
+STU-00012,Health,Health,Male,0,Undergraduate,10,71.6,57.43,5.63,50.6,0
+STU-00013,Engineering,Engineering,Male,0,Undergraduate,36,77.3,43.97,5.93,54.67,0
+STU-00014,Business,Business,Male,0,Undergraduate,13,73.1,38.47,6.37,45.8,0
+STU-00015,Engineering,Engineering,Female,0,Undergraduate,15,65.53,46.37,6.1,37.37,0
+STU-00016,Computing,Technology,Female,1,Undergraduate,37,71.17,46.2,6.37,52.8,0
+STU-00017,Health,Health,Female,1,Undergraduate,27,62.47,49.57,5.7,47.77,0
+STU-00018,Engineering,Engineering,Female,0,Undergraduate,12,71.23,44.5,6.67,42.53,0
+STU-00019,Social Sciences,Social Sciences,Female,0,Postgraduate,32,70.13,41.07,6.07,45.7,0
+STU-00020,Business,Business,Male,0,Postgraduate,30,71.73,43.87,6.43,30.17,0
+STU-00021,Computing,Technology,Male,0,Undergraduate,47,66.43,61.77,6.47,48.5,0
+STU-00022,Business,Business,Male,1,Undergraduate,16,72.67,48.87,6.37,49.57,0
+STU-00023,Engineering,Engineering,Female,0,Undergraduate,21,61.27,46.23,5.43,45.1,0
+STU-00024,Engineering,Engineering,Female,0,Undergraduate,43,72.0,48.57,6.2,59.4,0
+STU-00025,Health,Health,Female,0,Undergraduate,41,81.87,50.4,6.97,61.17,0
+STU-00026,Health,Health,Female,0,Undergraduate,44,83.47,36.33,5.97,39.97,0
+STU-00027,Business,Business,Male,0,Postgraduate,6,66.6,49.83,7.07,49.0,0
+STU-00028,Engineering,Engineering,Female,0,Undergraduate,24,78.8,37.37,6.8,46.5,0
+STU-00029,Computing,Technology,Female,0,Undergraduate,21,69.83,41.57,6.1,33.47,0
+STU-00030,Engineering,Engineering,Female,1,Undergraduate,9,61.93,47.07,5.67,52.07,0
+STU-00031,Social Sciences,Social Sciences,Female,0,Undergraduate,39,74.53,48.27,6.47,47.83,0
+STU-00032,Computing,Technology,Female,1,Postgraduate,5,59.97,52.3,4.97,46.8,1
+STU-00033,Computing,Technology,Female,0,Postgraduate,33,75.13,43.03,5.73,37.97,0
+STU-00034,Computing,Technology,Female,0,Postgraduate,8,73.4,44.73,6.57,41.67,0
+STU-00035,Social Sciences,Social Sciences,Prefer not to say,0,Undergraduate,31,71.93,46.73,5.73,55.5,0
+STU-00036,Arts,Humanities,Male,1,Undergraduate,34,77.9,36.7,6.5,38.13,0
+STU-00037,Health,Health,Female,1,Undergraduate,43,75.3,41.77,5.7,40.23,0
+STU-00038,Engineering,Engineering,Female,1,Undergraduate,10,59.2,44.53,6.03,53.87,0
+STU-00039,Arts,Humanities,Male,0,Undergraduate,27,75.27,48.9,6.0,44.87,0
+STU-00040,Computing,Technology,Male,0,Undergraduate,35,76.3,50.1,6.1,49.33,0
+STU-00041,Health,Health,Male,0,Undergraduate,31,76.6,39.27,6.83,49.67,0
+STU-00042,Engineering,Engineering,Female,0,Undergraduate,11,63.17,48.6,6.13,46.23,0
+STU-00043,Arts,Humanities,Male,0,Postgraduate,23,71.5,38.67,5.87,43.47,0
+STU-00044,Computing,Technology,Prefer not to say,0,Undergraduate,37,68.6,48.53,6.4,33.73,0
+STU-00045,Health,Health,Male,0,Undergraduate,1,60.4,50.77,6.47,39.13,0
+STU-00046,Business,Business,Female,0,Undergraduate,14,71.87,35.7,6.57,40.53,0
+STU-00047,Computing,Technology,Male,0,Undergraduate,8,70.57,46.63,6.33,43.1,0
+STU-00048,Health,Health,Female,0,Postgraduate,1,74.47,36.33,6.87,56.23,0
+STU-00049,Health,Health,Female,0,Undergraduate,3,65.43,46.0,6.37,54.07,0
+STU-00050,Engineering,Engineering,Male,0,Postgraduate,36,66.4,49.63,5.0,36.67,0
+STU-00051,Social Sciences,Social Sciences,Female,0,Postgraduate,38,72.27,41.3,5.83,36.93,0
+STU-00052,Engineering,Engineering,Female,0,Undergraduate,22,66.27,36.17,6.3,53.1,0
+STU-00053,Business,Business,Male,0,Undergraduate,20,72.47,40.5,5.27,47.87,0
+STU-00054,Computing,Technology,Prefer not to say,1,Undergraduate,12,57.07,53.73,6.93,43.03,0
+STU-00055,Computing,Technology,Female,1,Postgraduate,37,77.07,36.47,6.53,47.5,0
+STU-00056,Engineering,Engineering,Male,0,Undergraduate,24,70.2,50.97,6.53,41.9,0
+STU-00057,Business,Business,Male,1,Postgraduate,28,65.83,61.17,5.6,41.73,1
+STU-00058,Arts,Humanities,Female,0,Postgraduate,43,69.57,42.03,5.77,27.5,0
+STU-00059,Arts,Humanities,Female,0,Undergraduate,18,82.03,35.8,6.57,41.93,0
+STU-00060,Arts,Humanities,Female,0,Undergraduate,31,66.87,47.33,5.57,45.27,0
+STU-00061,Business,Business,Male,0,Undergraduate,30,75.27,37.37,5.77,44.07,0
+STU-00062,Health,Health,Female,0,Postgraduate,30,73.03,44.37,4.53,39.53,0
+STU-00063,Business,Business,Male,0,Postgraduate,39,77.87,37.07,6.23,34.57,0
+STU-00064,Business,Business,Female,0,Undergraduate,17,67.47,53.03,6.67,42.77,0
+STU-00065,Arts,Humanities,Male,1,Postgraduate,22,65.5,56.3,6.07,44.97,1
+STU-00066,Business,Business,Male,0,Undergraduate,32,71.6,43.53,5.57,42.8,0
+STU-00067,Social Sciences,Social Sciences,Male,0,Postgraduate,5,68.53,46.07,6.13,29.03,1
+STU-00068,Arts,Humanities,Male,0,Undergraduate,39,77.87,43.03,6.43,52.27,0
+STU-00069,Computing,Technology,Male,1,Postgraduate,24,77.5,39.13,6.4,43.13,0
+STU-00070,Health,Health,Female,0,Undergraduate,3,64.03,55.0,6.67,64.13,0
+STU-00071,Social Sciences,Social Sciences,Female,1,Undergraduate,21,75.0,47.37,5.63,46.73,0
+STU-00072,Health,Health,Male,0,Postgraduate,16,76.07,52.17,6.1,31.6,0
+STU-00073,Business,Business,Male,0,Undergraduate,28,74.0,37.03,5.6,44.7,0
+STU-00074,Arts,Humanities,Female,0,Undergraduate,19,74.03,38.53,5.87,36.33,0
+STU-00075,Health,Health,Male,0,Undergraduate,25,65.33,51.13,6.0,50.53,0
+STU-00076,Engineering,Engineering,Female,1,Postgraduate,40,63.83,47.5,6.7,44.83,0
+STU-00077,Engineering,Engineering,Female,0,Undergraduate,8,56.67,43.27,5.27,45.5,1
+STU-00078,Health,Health,Female,0,Undergraduate,9,65.73,47.97,6.27,56.53,0
+STU-00079,Health,Health,Female,1,Postgraduate,46,67.07,40.1,5.87,24.17,0
+STU-00080,Social Sciences,Social Sciences,Male,1,Undergraduate,4,63.5,50.67,5.97,41.43,0
+STU-00081,Computing,Technology,Female,0,Undergraduate,16,70.0,47.9,6.43,49.07,0
+STU-00082,Social Sciences,Social Sciences,Male,1,Undergraduate,41,72.0,49.33,6.2,37.47,0
+STU-00083,Computing,Technology,Female,1,Undergraduate,20,71.27,30.97,7.2,43.43,0
+STU-00084,Computing,Technology,Male,0,Undergraduate,34,71.8,49.23,5.27,38.17,0
+STU-00085,Social Sciences,Social Sciences,Male,0,Undergraduate,4,68.33,45.4,5.83,42.37,0
+STU-00086,Arts,Humanities,Female,0,Undergraduate,24,76.37,45.7,6.1,51.37,0
+STU-00087,Computing,Technology,Male,1,Undergraduate,3,59.53,50.5,6.53,40.57,0
+STU-00088,Social Sciences,Social Sciences,Female,0,Undergraduate,17,76.5,37.3,6.53,50.73,0
+STU-00089,Computing,Technology,Female,0,Undergraduate,10,64.37,57.43,5.7,48.73,0
+STU-00090,Health,Health,Female,1,Postgraduate,7,62.53,45.9,6.43,54.47,0
+STU-00091,Health,Health,Male,0,Undergraduate,48,75.5,36.8,5.47,44.23,0
+STU-00092,Health,Health,Female,1,Undergraduate,26,68.57,48.47,6.73,38.4,0
+STU-00093,Business,Business,Female,1,Postgraduate,29,78.3,44.37,6.57,40.7,0
+STU-00094,Engineering,Engineering,Male,0,Postgraduate,45,65.8,48.9,5.47,26.37,0
+STU-00095,Arts,Humanities,Female,1,Undergraduate,9,78.87,33.33,7.0,45.8,0
+STU-00096,Arts,Humanities,Female,0,Undergraduate,19,73.83,33.3,6.0,44.67,0
+STU-00097,Business,Business,Female,0,Undergraduate,26,76.67,41.9,5.53,49.3,0
+STU-00098,Computing,Technology,Prefer not to say,0,Postgraduate,11,75.0,48.97,5.87,49.2,0
+STU-00099,Social Sciences,Social Sciences,Female,0,Undergraduate,36,74.7,47.37,5.63,51.87,0
+STU-00100,Health,Health,Male,0,Undergraduate,27,78.0,38.67,6.77,48.77,0
+STU-00101,Computing,Technology,Male,0,Undergraduate,16,66.87,43.93,6.4,29.8,0
+STU-00102,Social Sciences,Social Sciences,Male,0,Undergraduate,3,65.13,47.63,6.37,51.07,0
+STU-00103,Business,Business,Male,0,Undergraduate,44,78.3,35.83,6.53,50.63,0
+STU-00104,Health,Health,Female,0,Postgraduate,34,72.2,47.67,6.0,31.0,1
+STU-00105,Health,Health,Non-binary,0,Undergraduate,37,79.23,48.77,5.67,43.6,0
+STU-00106,Arts,Humanities,Female,1,Postgraduate,7,69.8,49.87,6.47,56.23,0
+STU-00107,Engineering,Engineering,Female,0,Undergraduate,45,60.53,40.23,6.2,39.4,0
+STU-00108,Arts,Humanities,Female,0,Postgraduate,8,73.2,29.2,6.5,44.47,0
+STU-00109,Computing,Technology,Male,1,Undergraduate,47,68.2,52.67,6.17,54.0,0
+STU-00110,Arts,Humanities,Female,0,Postgraduate,32,76.37,48.37,6.2,50.5,0
+STU-00111,Health,Health,Prefer not to say,0,Postgraduate,44,74.07,56.67,6.07,41.87,0
+STU-00112,Social Sciences,Social Sciences,Female,0,Undergraduate,12,58.7,55.5,5.83,49.27,0
+STU-00113,Business,Business,Female,0,Undergraduate,42,78.83,42.07,6.27,59.83,0
+STU-00114,Engineering,Engineering,Female,0,Undergraduate,36,70.83,46.37,6.53,49.83,0
+STU-00115,Arts,Humanities,Male,0,Undergraduate,43,79.5,42.03,6.73,53.7,0
+STU-00116,Engineering,Engineering,Female,0,Postgraduate,39,66.2,45.5,5.47,45.33,0
+STU-00117,Arts,Humanities,Female,1,Undergraduate,13,73.53,51.27,5.9,38.6,0
+STU-00118,Social Sciences,Social Sciences,Female,0,Undergraduate,41,67.87,44.23,5.3,49.23,0
+STU-00119,Engineering,Engineering,Female,0,Undergraduate,23,74.07,50.6,6.57,41.67,0
+STU-00120,Arts,Humanities,Female,0,Undergraduate,35,72.2,51.37,5.43,42.17,0
+STU-00121,Engineering,Engineering,Female,1,Postgraduate,18,65.87,48.73,5.97,39.1,0
+STU-00122,Business,Business,Female,0,Undergraduate,21,62.77,54.33,5.7,38.4,0
+STU-00123,Arts,Humanities,Female,0,Undergraduate,15,78.2,41.23,5.4,40.5,0
+STU-00124,Computing,Technology,Prefer not to say,0,Undergraduate,32,79.07,38.1,6.6,45.57,0
+STU-00125,Health,Health,Male,0,Undergraduate,32,66.47,52.97,6.1,41.87,1
+STU-00126,Arts,Humanities,Female,0,Undergraduate,2,58.13,47.5,5.9,56.1,1
+STU-00127,Health,Health,Female,1,Postgraduate,1,66.4,39.17,5.87,51.5,0
+STU-00128,Social Sciences,Social Sciences,Female,0,Undergraduate,6,63.9,51.13,6.0,55.3,0
+STU-00129,Business,Business,Male,1,Postgraduate,40,71.9,47.33,5.53,49.9,0
+STU-00130,Business,Business,Male,0,Undergraduate,7,70.47,52.27,5.63,53.6,0
+STU-00131,Health,Health,Female,0,Undergraduate,13,63.13,47.93,6.0,56.07,0
+STU-00132,Engineering,Engineering,Female,0,Postgraduate,13,59.77,42.6,5.93,46.27,0
+STU-00133,Computing,Technology,Female,0,Undergraduate,23,80.7,44.5,6.5,45.27,0
+STU-00134,Health,Health,Female,0,Undergraduate,7,61.33,52.2,5.63,42.7,0
+STU-00135,Business,Business,Female,0,Postgraduate,43,67.7,56.27,5.47,35.47,0
+STU-00136,Health,Health,Male,0,Postgraduate,36,76.17,43.9,6.73,40.97,0
+STU-00137,Arts,Humanities,Male,1,Undergraduate,11,66.87,51.2,6.07,33.83,0
+STU-00138,Social Sciences,Social Sciences,Male,0,Undergraduate,39,57.9,55.1,5.73,42.33,0
+STU-00139,Social Sciences,Social Sciences,Female,0,Undergraduate,3,67.57,45.1,6.0,43.47,1
+STU-00140,Engineering,Engineering,Female,0,Undergraduate,29,62.27,45.37,6.47,35.0,1
+STU-00141,Social Sciences,Social Sciences,Male,0,Undergraduate,15,74.87,37.93,5.97,50.8,0
+STU-00142,Social Sciences,Social Sciences,Female,0,Undergraduate,13,75.17,41.2,5.3,43.77,0
+STU-00143,Business,Business,Male,1,Undergraduate,14,68.57,47.4,6.0,43.83,0
+STU-00144,Arts,Humanities,Male,0,Undergraduate,38,76.3,38.3,5.67,42.03,0
+STU-00145,Engineering,Engineering,Male,0,Undergraduate,17,78.07,32.47,5.8,28.9,0
+STU-00146,Engineering,Engineering,Male,0,Undergraduate,24,78.9,48.6,6.57,51.9,0
+STU-00147,Business,Business,Male,0,Undergraduate,34,81.6,34.63,6.3,43.27,0
+STU-00148,Social Sciences,Social Sciences,Prefer not to say,0,Undergraduate,41,71.13,44.0,5.27,56.87,0
+STU-00149,Computing,Technology,Female,0,Undergraduate,18,77.83,35.57,6.67,37.97,0
+STU-00150,Social Sciences,Social Sciences,Male,1,Undergraduate,9,67.47,50.13,6.13,42.1,1
+STU-00151,Computing,Technology,Female,1,Undergraduate,28,74.43,41.97,6.03,43.67,0
+STU-00152,Computing,Technology,Female,0,Undergraduate,25,66.2,47.73,6.23,43.13,0
+STU-00153,Health,Health,Female,1,Undergraduate,15,76.27,37.23,5.83,40.9,0
+STU-00154,Arts,Humanities,Female,0,Undergraduate,45,75.3,44.63,6.2,56.1,0
+STU-00155,Arts,Humanities,Non-binary,0,Undergraduate,48,75.07,50.93,6.0,46.17,0
+STU-00156,Engineering,Engineering,Male,0,Undergraduate,25,72.6,41.73,5.93,27.5,0
+STU-00157,Computing,Technology,Female,1,Undergraduate,31,80.3,47.67,5.87,34.2,0
+STU-00158,Computing,Technology,Female,0,Undergraduate,47,73.13,38.1,6.53,44.17,0
+STU-00159,Engineering,Engineering,Female,1,Undergraduate,18,60.33,51.23,6.53,46.07,0
+STU-00160,Social Sciences,Social Sciences,Female,0,Undergraduate,14,71.67,44.9,5.73,52.27,0
+STU-00161,Engineering,Engineering,Male,0,Undergraduate,37,75.7,38.07,6.27,52.67,0
+STU-00162,Arts,Humanities,Female,0,Undergraduate,27,78.7,43.83,5.47,57.77,0
+STU-00163,Computing,Technology,Female,1,Undergraduate,35,60.13,60.1,5.5,51.97,0
+STU-00164,Arts,Humanities,Male,0,Undergraduate,12,70.13,50.43,6.1,51.53,0
+STU-00165,Social Sciences,Social Sciences,Female,1,Undergraduate,22,77.53,41.23,6.17,44.93,0
+STU-00166,Arts,Humanities,Male,0,Undergraduate,28,79.13,42.37,6.13,47.03,0
+STU-00167,Arts,Humanities,Non-binary,0,Postgraduate,5,65.97,42.0,5.9,41.77,0
+STU-00168,Business,Business,Female,0,Postgraduate,19,76.03,51.33,6.43,38.17,0
+STU-00169,Health,Health,Non-binary,1,Undergraduate,46,78.0,37.63,6.27,50.6,0
+STU-00170,Health,Health,Female,0,Undergraduate,9,76.47,49.53,6.57,39.0,0
+STU-00171,Engineering,Engineering,Female,0,Postgraduate,27,69.37,32.2,5.93,43.07,0
+STU-00172,Social Sciences,Social Sciences,Prefer not to say,1,Undergraduate,38,67.13,47.8,5.67,44.33,0
+STU-00173,Social Sciences,Social Sciences,Female,0,Postgraduate,22,73.97,34.5,6.23,41.37,0
+STU-00174,Engineering,Engineering,Non-binary,0,Undergraduate,36,75.77,41.03,6.17,35.67,0
+STU-00175,Engineering,Engineering,Female,1,Undergraduate,16,68.33,39.83,6.07,41.43,0
+STU-00176,Engineering,Engineering,Male,1,Undergraduate,16,62.13,57.37,5.43,38.2,0
+STU-00177,Computing,Technology,Male,0,Postgraduate,4,62.73,45.1,5.87,53.33,0
+STU-00178,Engineering,Engineering,Male,0,Undergraduate,32,70.5,50.1,6.43,42.73,0
+STU-00179,Health,Health,Female,0,Undergraduate,35,70.93,41.33,6.13,42.37,0
+STU-00180,Business,Business,Male,0,Postgraduate,44,74.47,61.9,6.17,62.93,0
+STU-00181,Computing,Technology,Female,1,Undergraduate,33,67.13,40.43,6.47,40.4,0
+STU-00182,Business,Business,Female,0,Undergraduate,39,76.93,42.33,7.13,52.87,0
+STU-00183,Arts,Humanities,Female,0,Undergraduate,22,73.3,49.4,6.23,40.67,0
+STU-00184,Engineering,Engineering,Male,0,Postgraduate,9,56.0,44.8,5.67,38.03,0
+STU-00185,Business,Business,Female,1,Postgraduate,43,70.4,44.23,5.9,48.63,0
+STU-00186,Social Sciences,Social Sciences,Male,0,Postgraduate,45,75.53,47.27,6.6,53.87,0
+STU-00187,Business,Business,Female,0,Undergraduate,22,69.33,56.9,5.63,31.8,1
+STU-00188,Health,Health,Male,0,Undergraduate,21,75.67,51.43,5.43,46.03,0
+STU-00189,Computing,Technology,Female,0,Undergraduate,5,56.73,47.77,5.27,48.3,1
+STU-00190,Computing,Technology,Female,0,Postgraduate,26,76.4,42.83,6.43,46.17,0
+STU-00191,Social Sciences,Social Sciences,Female,0,Undergraduate,24,72.87,45.5,6.03,49.23,0
+STU-00192,Health,Health,Male,0,Undergraduate,43,78.87,29.7,6.23,53.3,0
+STU-00193,Computing,Technology,Male,0,Undergraduate,10,58.47,41.6,5.43,33.73,0
+STU-00194,Health,Health,Non-binary,0,Undergraduate,34,77.97,37.33,5.6,48.13,0
+STU-00195,Health,Health,Male,0,Undergraduate,42,79.2,38.43,6.97,28.03,0
+STU-00196,Business,Business,Female,0,Undergraduate,19,74.07,42.57,6.73,38.23,0
+STU-00197,Health,Health,Female,1,Undergraduate,7,64.27,37.37,6.07,49.37,0
+STU-00198,Engineering,Engineering,Female,0,Undergraduate,9,67.63,37.43,6.2,43.37,0
+STU-00199,Business,Business,Male,0,Postgraduate,8,70.07,47.27,6.1,49.57,0
+STU-00200,Arts,Humanities,Male,0,Undergraduate,32,80.2,41.27,6.0,51.0,0
+STU-00201,Health,Health,Female,1,Undergraduate,37,74.47,31.33,6.6,42.1,0
+STU-00202,Social Sciences,Social Sciences,Female,0,Undergraduate,28,74.33,44.53,6.23,43.9,0
+STU-00203,Arts,Humanities,Male,0,Postgraduate,5,79.33,38.9,6.0,54.57,0
+STU-00204,Business,Business,Female,1,Undergraduate,32,74.83,43.0,6.8,48.4,0
+STU-00205,Health,Health,Male,1,Undergraduate,6,64.43,41.67,5.9,51.9,0
+STU-00206,Health,Health,Female,0,Undergraduate,12,67.17,48.1,6.2,48.57,1
+STU-00207,Engineering,Engineering,Non-binary,0,Undergraduate,2,61.7,48.17,6.63,37.23,0
+STU-00208,Engineering,Engineering,Male,0,Undergraduate,37,77.93,27.53,6.9,39.07,0
+STU-00209,Arts,Humanities,Male,0,Undergraduate,14,75.1,43.27,5.5,46.63,0
+STU-00210,Health,Health,Non-binary,1,Postgraduate,47,75.0,44.83,6.1,55.8,0
+STU-00211,Social Sciences,Social Sciences,Female,0,Undergraduate,40,75.47,33.97,6.7,31.4,0
+STU-00212,Health,Health,Female,1,Undergraduate,39,85.5,34.4,6.63,44.03,0
+STU-00213,Computing,Technology,Male,0,Postgraduate,34,78.13,37.37,6.33,42.03,0
+STU-00214,Arts,Humanities,Female,0,Undergraduate,40,85.83,34.2,6.67,40.07,0
+STU-00215,Arts,Humanities,Female,0,Undergraduate,5,71.8,55.4,6.33,46.67,0
+STU-00216,Arts,Humanities,Male,1,Undergraduate,20,82.17,45.5,6.27,60.73,0
+STU-00217,Business,Business,Male,0,Postgraduate,23,74.1,47.27,6.13,37.8,1
+STU-00218,Health,Health,Female,0,Undergraduate,40,74.9,52.83,5.4,44.2,0
+STU-00219,Arts,Humanities,Male,0,Undergraduate,44,81.8,40.43,6.2,40.0,0
+STU-00220,Engineering,Engineering,Female,0,Undergraduate,32,70.17,44.37,6.23,48.43,0
+STU-00221,Business,Business,Female,0,Undergraduate,2,60.0,53.43,6.03,42.6,1
+STU-00222,Health,Health,Male,0,Undergraduate,12,69.33,48.07,6.03,44.3,1
+STU-00223,Social Sciences,Social Sciences,Male,0,Undergraduate,29,69.57,50.93,5.7,48.9,0
+STU-00224,Business,Business,Female,1,Undergraduate,27,74.5,52.6,6.23,52.93,1
+STU-00225,Engineering,Engineering,Female,0,Undergraduate,43,72.03,46.1,6.2,41.93,0
+STU-00226,Computing,Technology,Female,0,Undergraduate,15,63.0,53.5,7.03,49.1,0
+STU-00227,Business,Business,Male,1,Undergraduate,7,56.67,52.63,6.4,42.37,0
+STU-00228,Engineering,Engineering,Male,1,Undergraduate,12,64.23,46.6,5.53,23.7,0
+STU-00229,Arts,Humanities,Female,1,Undergraduate,29,73.5,38.7,6.13,50.57,0
+STU-00230,Health,Health,Female,1,Undergraduate,21,59.53,53.4,5.83,33.57,0
+STU-00231,Health,Health,Male,0,Undergraduate,36,67.17,41.77,6.0,38.43,0
+STU-00232,Health,Health,Male,0,Undergraduate,26,75.27,38.9,6.27,45.1,0
+STU-00233,Arts,Humanities,Female,0,Postgraduate,33,80.27,35.1,6.53,50.43,0
+STU-00234,Business,Business,Male,1,Postgraduate,41,69.2,52.57,6.2,47.53,0
+STU-00235,Computing,Technology,Female,0,Undergraduate,20,69.6,52.03,6.6,32.37,0
+STU-00236,Health,Health,Male,1,Postgraduate,20,65.7,49.5,5.53,44.47,1
+STU-00237,Business,Business,Female,0,Postgraduate,4,65.57,62.1,6.83,56.1,0
+STU-00238,Business,Business,Female,1,Undergraduate,4,67.4,35.8,7.23,48.23,0
+STU-00239,Arts,Humanities,Male,0,Undergraduate,18,70.83,38.73,6.4,38.17,0
+STU-00240,Social Sciences,Social Sciences,Female,1,Postgraduate,47,69.63,44.1,6.0,43.7,0
+STU-00241,Computing,Technology,Non-binary,1,Undergraduate,2,62.97,42.97,5.8,40.6,0
+STU-00242,Computing,Technology,Female,0,Undergraduate,19,70.77,51.8,6.37,44.3,1
+STU-00243,Engineering,Engineering,Male,0,Undergraduate,6,61.5,48.0,5.97,47.53,0
+STU-00244,Computing,Technology,Non-binary,0,Undergraduate,33,71.23,49.97,7.0,55.47,0
+STU-00245,Health,Health,Female,0,Undergraduate,39,76.53,39.83,5.7,49.53,0
+STU-00246,Business,Business,Male,0,Undergraduate,18,71.17,49.9,6.23,28.47,0
+STU-00247,Business,Business,Female,1,Undergraduate,21,75.7,34.27,5.67,50.03,0
+STU-00248,Business,Business,Female,0,Postgraduate,18,68.53,49.67,6.53,54.27,1
+STU-00249,Computing,Technology,Male,1,Undergraduate,44,63.07,52.3,5.1,38.6,0
+STU-00250,Social Sciences,Social Sciences,Female,1,Undergraduate,1,59.43,54.23,6.13,53.67,0
+STU-00251,Engineering,Engineering,Prefer not to say,0,Undergraduate,9,58.43,55.53,5.93,54.63,0
+STU-00252,Health,Health,Male,0,Undergraduate,41,73.43,44.77,6.73,51.9,0
+STU-00253,Computing,Technology,Male,0,Undergraduate,33,75.67,42.8,5.63,49.57,0
+STU-00254,Arts,Humanities,Female,1,Undergraduate,12,74.87,37.27,5.63,61.6,0
+STU-00255,Health,Health,Female,0,Undergraduate,22,66.53,39.6,5.83,52.0,0
+STU-00256,Engineering,Engineering,Male,1,Undergraduate,11,70.37,40.27,5.77,51.13,0
+STU-00257,Arts,Humanities,Prefer not to say,1,Undergraduate,45,74.7,44.27,6.67,53.27,0
+STU-00258,Health,Health,Female,0,Undergraduate,1,70.83,42.03,6.9,55.3,1
+STU-00259,Health,Health,Female,0,Undergraduate,4,68.8,43.87,6.37,38.0,0
+STU-00260,Health,Health,Male,1,Postgraduate,41,66.3,40.6,5.33,45.4,0
+STU-00261,Engineering,Engineering,Female,0,Undergraduate,34,65.77,44.77,5.57,42.3,0
+STU-00262,Business,Business,Male,0,Undergraduate,10,60.23,53.4,6.4,35.47,1
+STU-00263,Social Sciences,Social Sciences,Female,0,Undergraduate,24,69.83,40.0,5.83,47.67,0
+STU-00264,Arts,Humanities,Female,0,Postgraduate,11,70.07,48.03,5.17,50.4,0
+STU-00265,Engineering,Engineering,Male,1,Undergraduate,30,70.9,38.17,6.73,41.0,0
+STU-00266,Social Sciences,Social Sciences,Male,0,Undergraduate,38,68.1,44.3,6.57,31.53,0
+STU-00267,Arts,Humanities,Male,1,Undergraduate,47,71.3,55.23,6.17,42.5,0
+STU-00268,Health,Health,Male,1,Undergraduate,48,71.53,59.57,5.43,60.5,0
+STU-00269,Engineering,Engineering,Male,0,Undergraduate,10,61.93,44.07,6.0,42.57,0
+STU-00270,Computing,Technology,Non-binary,0,Undergraduate,45,67.33,55.37,5.4,34.13,0
+STU-00271,Arts,Humanities,Female,0,Undergraduate,26,76.97,54.07,6.13,58.53,0
+STU-00272,Health,Health,Female,0,Undergraduate,48,81.17,53.43,6.1,37.7,0
+STU-00273,Computing,Technology,Male,1,Postgraduate,47,72.33,37.8,6.63,37.77,0
+STU-00274,Computing,Technology,Male,1,Postgraduate,18,65.97,54.07,6.0,32.47,0
+STU-00275,Engineering,Engineering,Female,0,Undergraduate,38,70.87,48.17,5.33,44.0,0
+STU-00276,Arts,Humanities,Male,0,Undergraduate,37,69.3,47.13,6.07,33.73,1
+STU-00277,Engineering,Engineering,Male,0,Undergraduate,46,69.97,48.2,6.77,55.03,0
+STU-00278,Arts,Humanities,Female,0,Undergraduate,17,79.23,42.1,5.77,41.17,0
+STU-00279,Social Sciences,Social Sciences,Male,1,Undergraduate,12,68.67,42.03,6.47,40.03,0
+STU-00280,Engineering,Engineering,Female,0,Undergraduate,15,63.73,58.93,5.23,43.07,0
+STU-00281,Engineering,Engineering,Male,0,Undergraduate,20,65.53,41.0,6.2,52.17,0
+STU-00282,Computing,Technology,Female,1,Postgraduate,30,71.03,43.47,5.37,36.9,0
+STU-00283,Computing,Technology,Male,1,Undergraduate,39,72.13,41.6,6.23,43.33,0
+STU-00284,Arts,Humanities,Male,0,Undergraduate,12,71.9,49.63,6.4,49.57,1
+STU-00285,Social Sciences,Social Sciences,Female,0,Postgraduate,6,72.9,38.57,5.3,52.4,0
+STU-00286,Social Sciences,Social Sciences,Female,0,Postgraduate,36,63.6,60.2,5.2,27.9,1
+STU-00287,Social Sciences,Social Sciences,Prefer not to say,1,Postgraduate,31,72.97,29.7,6.33,53.0,0
+STU-00288,Computing,Technology,Male,0,Undergraduate,1,58.47,51.73,5.8,43.93,0
+STU-00289,Business,Business,Male,0,Undergraduate,5,68.43,51.1,6.4,58.4,0
+STU-00290,Arts,Humanities,Female,1,Postgraduate,46,78.93,37.1,6.17,48.27,0
+STU-00291,Computing,Technology,Male,0,Undergraduate,35,71.87,49.1,6.13,56.33,0
+STU-00292,Health,Health,Female,1,Undergraduate,15,65.0,45.77,5.9,53.87,0
+STU-00293,Arts,Humanities,Male,0,Postgraduate,29,78.1,46.2,6.17,43.27,0
+STU-00294,Engineering,Engineering,Female,1,Undergraduate,31,73.67,43.37,5.5,36.97,0
+STU-00295,Health,Health,Female,0,Undergraduate,39,67.07,50.67,5.5,34.4,0
+STU-00296,Computing,Technology,Female,1,Undergraduate,25,65.07,47.4,6.6,56.97,0
+STU-00297,Engineering,Engineering,Male,0,Undergraduate,34,67.5,50.9,5.73,47.13,0
+STU-00298,Health,Health,Male,1,Undergraduate,44,69.4,48.23,6.3,59.83,0
+STU-00299,Social Sciences,Social Sciences,Male,0,Undergraduate,16,77.5,34.7,5.87,53.33,0
+STU-00300,Computing,Technology,Female,1,Postgraduate,48,73.53,43.5,6.07,33.8,0
+STU-00301,Business,Business,Female,0,Postgraduate,41,71.23,51.23,6.7,51.53,1
+STU-00302,Business,Business,Prefer not to say,1,Undergraduate,6,75.93,43.13,6.07,36.97,0
+STU-00303,Arts,Humanities,Prefer not to say,1,Postgraduate,38,83.27,30.93,6.43,50.4,0
+STU-00304,Engineering,Engineering,Non-binary,0,Postgraduate,20,75.27,36.13,6.63,40.13,0
+STU-00305,Business,Business,Female,1,Undergraduate,45,64.7,47.97,5.63,42.4,0
+STU-00306,Business,Business,Male,1,Undergraduate,3,59.8,51.2,6.03,54.7,0
+STU-00307,Computing,Technology,Male,0,Undergraduate,34,75.1,40.0,6.5,45.43,0
+STU-00308,Computing,Technology,Male,1,Undergraduate,23,61.1,54.43,6.17,45.83,0
+STU-00309,Engineering,Engineering,Female,0,Undergraduate,30,69.6,41.1,5.4,41.8,0
+STU-00310,Computing,Technology,Female,0,Undergraduate,21,65.6,42.8,6.73,56.0,0
+STU-00311,Health,Health,Female,0,Postgraduate,38,70.73,39.03,5.97,54.0,0
+STU-00312,Social Sciences,Social Sciences,Female,0,Undergraduate,16,69.2,49.07,5.57,39.37,0
+STU-00313,Health,Health,Male,0,Postgraduate,36,76.67,49.2,6.83,35.17,0
+STU-00314,Computing,Technology,Male,0,Undergraduate,10,67.7,49.97,6.53,39.33,0
+STU-00315,Computing,Technology,Female,0,Undergraduate,45,70.73,57.4,5.77,50.53,0
+STU-00316,Health,Health,Female,1,Undergraduate,46,75.8,31.27,5.6,45.93,0
+STU-00317,Health,Health,Prefer not to say,0,Undergraduate,9,67.9,50.77,6.63,51.1,0
+STU-00318,Social Sciences,Social Sciences,Female,0,Postgraduate,9,66.93,49.77,5.6,45.03,1
+STU-00319,Business,Business,Female,0,Undergraduate,26,79.2,35.4,5.57,41.2,0
+STU-00320,Computing,Technology,Female,0,Undergraduate,30,78.5,43.93,5.47,51.67,0
+STU-00321,Computing,Technology,Female,0,Postgraduate,35,68.37,52.97,6.43,29.23,0
+STU-00322,Arts,Humanities,Female,1,Undergraduate,18,75.6,45.13,6.83,54.5,0
+STU-00323,Computing,Technology,Female,0,Undergraduate,43,66.8,45.83,6.73,40.67,0
+STU-00324,Arts,Humanities,Female,0,Postgraduate,16,79.6,39.9,6.43,54.97,0
+STU-00325,Computing,Technology,Female,0,Undergraduate,36,69.37,53.43,6.47,45.97,0
+STU-00326,Computing,Technology,Non-binary,0,Undergraduate,41,74.17,44.83,6.13,43.53,0
+STU-00327,Social Sciences,Social Sciences,Male,1,Undergraduate,4,61.43,33.4,5.77,57.5,0
+STU-00328,Computing,Technology,Non-binary,0,Undergraduate,33,63.43,49.3,6.3,46.8,1
+STU-00329,Computing,Technology,Female,1,Undergraduate,26,71.87,51.1,5.43,59.17,0
+STU-00330,Social Sciences,Social Sciences,Male,0,Undergraduate,30,74.5,47.8,6.6,34.07,0
+STU-00331,Arts,Humanities,Female,1,Undergraduate,48,69.93,46.23,6.33,35.7,0
+STU-00332,Engineering,Engineering,Male,0,Postgraduate,13,66.2,36.7,6.5,51.97,0
+STU-00333,Business,Business,Male,0,Postgraduate,21,75.1,46.67,6.67,43.5,0
+STU-00334,Engineering,Engineering,Male,0,Undergraduate,14,59.93,52.03,5.8,41.23,1
+STU-00335,Engineering,Engineering,Male,1,Postgraduate,16,58.27,39.93,6.13,37.13,0
+STU-00336,Business,Business,Female,0,Undergraduate,17,71.63,43.2,6.53,40.93,0
+STU-00337,Computing,Technology,Male,1,Postgraduate,23,71.43,44.17,6.0,55.7,0
+STU-00338,Arts,Humanities,Male,0,Undergraduate,35,74.63,45.0,6.27,48.33,0
+STU-00339,Arts,Humanities,Female,1,Postgraduate,44,71.6,49.57,6.2,47.07,0
+STU-00340,Business,Business,Male,0,Undergraduate,24,76.13,30.1,6.37,49.47,0
+STU-00341,Arts,Humanities,Male,0,Undergraduate,39,73.93,47.83,6.27,42.77,0
+STU-00342,Health,Health,Male,0,Undergraduate,29,81.73,49.57,5.8,41.07,0
+STU-00343,Arts,Humanities,Male,0,Undergraduate,19,83.7,33.43,6.37,42.3,0
+STU-00344,Engineering,Engineering,Male,1,Undergraduate,12,64.43,50.5,6.2,36.0,0
+STU-00345,Engineering,Engineering,Female,0,Undergraduate,40,73.93,47.97,5.6,49.53,0
+STU-00346,Business,Business,Male,0,Postgraduate,47,78.03,47.6,7.77,46.77,1
+STU-00347,Computing,Technology,Female,0,Undergraduate,22,71.13,60.23,6.4,42.7,1
+STU-00348,Engineering,Engineering,Female,1,Undergraduate,44,66.33,50.6,5.63,41.83,0
+STU-00349,Business,Business,Non-binary,0,Undergraduate,20,76.93,41.5,6.77,43.93,0
+STU-00350,Engineering,Engineering,Female,1,Undergraduate,2,54.27,50.5,5.53,62.33,0
+STU-00351,Computing,Technology,Male,0,Undergraduate,6,65.57,43.5,6.03,50.77,0
+STU-00352,Engineering,Engineering,Male,0,Postgraduate,31,71.57,46.77,7.23,45.43,0
+STU-00353,Computing,Technology,Female,1,Undergraduate,44,68.57,47.73,6.47,41.07,0
+STU-00354,Computing,Technology,Female,1,Undergraduate,6,62.27,52.93,5.97,41.73,0
+STU-00355,Computing,Technology,Female,0,Undergraduate,17,68.27,42.63,5.9,47.3,0
+STU-00356,Computing,Technology,Male,0,Postgraduate,48,75.67,43.33,5.3,38.47,0
+STU-00357,Engineering,Engineering,Female,0,Undergraduate,38,68.43,49.7,5.67,49.93,0
+STU-00358,Engineering,Engineering,Female,0,Undergraduate,16,61.07,49.87,6.7,46.67,0
+STU-00359,Health,Health,Female,1,Postgraduate,21,72.07,35.37,5.8,44.1,0
+STU-00360,Health,Health,Male,0,Undergraduate,32,76.23,47.53,6.43,48.33,0
+STU-00361,Business,Business,Male,0,Postgraduate,16,66.2,35.1,6.57,56.0,0
+STU-00362,Business,Business,Prefer not to say,0,Undergraduate,8,62.37,45.97,5.47,39.87,0
+STU-00363,Engineering,Engineering,Female,0,Undergraduate,26,68.77,56.3,6.27,39.53,0
+STU-00364,Engineering,Engineering,Female,0,Postgraduate,23,71.13,49.83,6.37,43.1,0
+STU-00365,Computing,Technology,Male,1,Postgraduate,22,67.3,49.2,6.27,40.53,0
+STU-00366,Arts,Humanities,Female,0,Undergraduate,39,90.67,30.43,7.0,39.33,0
+STU-00367,Computing,Technology,Female,0,Undergraduate,48,58.17,44.8,5.97,58.73,0
+STU-00368,Engineering,Engineering,Female,0,Postgraduate,28,76.0,46.03,5.93,48.0,0
+STU-00369,Health,Health,Female,0,Undergraduate,17,73.33,45.43,5.9,53.3,0
+STU-00370,Business,Business,Female,0,Postgraduate,15,71.47,43.87,5.53,43.63,0
+STU-00371,Computing,Technology,Male,0,Undergraduate,37,80.67,39.43,6.63,41.4,0
+STU-00372,Health,Health,Female,1,Undergraduate,44,76.07,40.0,5.5,52.57,0
+STU-00373,Social Sciences,Social Sciences,Female,1,Undergraduate,21,67.6,47.13,6.03,43.1,0
+STU-00374,Health,Health,Female,0,Postgraduate,19,71.53,50.03,6.23,52.03,0
+STU-00375,Engineering,Engineering,Male,0,Undergraduate,25,69.63,34.13,5.87,35.73,0
+STU-00376,Arts,Humanities,Female,0,Undergraduate,15,66.9,52.03,5.37,41.6,0
+STU-00377,Arts,Humanities,Female,1,Postgraduate,6,67.33,38.17,6.47,60.27,0
+STU-00378,Engineering,Engineering,Female,1,Undergraduate,11,61.07,46.67,6.27,31.33,0
+STU-00379,Health,Health,Male,0,Undergraduate,32,76.47,42.1,6.9,34.17,0
+STU-00380,Engineering,Engineering,Female,0,Undergraduate,27,71.6,48.37,6.7,37.53,0
+STU-00381,Engineering,Engineering,Female,0,Undergraduate,20,69.0,51.7,6.07,40.77,0
+STU-00382,Business,Business,Female,1,Undergraduate,44,74.1,38.2,7.03,36.57,0
+STU-00383,Health,Health,Female,0,Undergraduate,19,86.13,34.4,7.27,54.6,0
+STU-00384,Arts,Humanities,Male,0,Undergraduate,19,76.8,44.77,5.83,43.5,0
+STU-00385,Social Sciences,Social Sciences,Male,1,Undergraduate,34,70.8,35.7,6.17,43.7,0
+STU-00386,Health,Health,Female,1,Undergraduate,16,68.8,43.03,6.27,42.53,0
+STU-00387,Business,Business,Male,0,Postgraduate,48,79.9,44.77,6.1,38.13,0
+STU-00388,Computing,Technology,Female,1,Undergraduate,16,58.2,60.9,6.47,47.0,0
+STU-00389,Computing,Technology,Male,0,Undergraduate,12,71.0,53.0,5.93,45.7,1
+STU-00390,Computing,Technology,Male,0,Postgraduate,16,74.73,52.87,6.57,34.67,0
+STU-00391,Arts,Humanities,Male,1,Undergraduate,47,62.3,57.43,5.9,45.03,0
+STU-00392,Health,Health,Female,0,Postgraduate,11,58.53,52.07,6.5,51.13,1
+STU-00393,Computing,Technology,Male,1,Undergraduate,32,69.37,40.03,6.37,36.23,0
+STU-00394,Business,Business,Male,0,Undergraduate,4,68.7,45.7,6.63,51.4,0
+STU-00395,Arts,Humanities,Male,0,Undergraduate,23,77.03,53.67,6.8,50.33,0
+STU-00396,Arts,Humanities,Male,0,Postgraduate,21,69.63,47.43,6.0,47.43,0
+STU-00397,Arts,Humanities,Female,0,Undergraduate,10,74.57,34.27,5.97,57.8,0
+STU-00398,Business,Business,Male,0,Undergraduate,39,66.73,39.4,5.73,35.8,0
+STU-00399,Business,Business,Female,0,Undergraduate,26,77.4,44.43,6.5,54.73,0
+STU-00400,Business,Business,Female,1,Undergraduate,13,64.6,55.6,6.03,41.23,1
+STU-00401,Computing,Technology,Male,0,Undergraduate,1,60.87,43.8,6.57,46.53,0
+STU-00402,Health,Health,Female,0,Undergraduate,26,74.33,32.63,6.17,41.43,0
+STU-00403,Engineering,Engineering,Female,0,Undergraduate,44,71.2,49.77,6.7,33.57,0
+STU-00404,Health,Health,Male,1,Undergraduate,42,69.83,41.77,6.1,41.3,0
+STU-00405,Arts,Humanities,Female,0,Postgraduate,9,71.0,46.2,6.2,56.7,0
+STU-00406,Health,Health,Male,1,Postgraduate,26,70.3,44.4,6.6,47.5,0
+STU-00407,Social Sciences,Social Sciences,Male,0,Undergraduate,32,79.4,42.83,6.87,45.8,0
+STU-00408,Health,Health,Female,0,Undergraduate,45,74.6,36.67,5.7,45.43,0
+STU-00409,Engineering,Engineering,Female,0,Postgraduate,5,66.8,39.7,6.33,42.2,0
+STU-00410,Computing,Technology,Female,1,Undergraduate,3,65.37,41.87,6.17,42.2,0
+STU-00411,Health,Health,Prefer not to say,0,Undergraduate,19,75.67,46.63,6.0,51.73,0
+STU-00412,Health,Health,Prefer not to say,0,Postgraduate,4,63.2,43.0,6.3,54.9,0
+STU-00413,Health,Health,Female,1,Undergraduate,1,65.27,50.9,5.83,43.63,0
+STU-00414,Engineering,Engineering,Male,1,Undergraduate,14,68.57,55.1,6.4,33.6,0
+STU-00415,Engineering,Engineering,Female,0,Undergraduate,16,64.43,38.33,6.03,25.8,0
+STU-00416,Computing,Technology,Male,0,Postgraduate,15,60.63,44.83,6.07,45.33,1
+STU-00417,Arts,Humanities,Male,0,Postgraduate,10,69.0,55.3,5.43,42.1,1
+STU-00418,Business,Business,Male,0,Undergraduate,36,71.97,42.77,6.5,53.17,0
+STU-00419,Health,Health,Female,1,Postgraduate,33,71.57,45.93,6.07,45.27,0
+STU-00420,Arts,Humanities,Female,1,Undergraduate,12,67.5,51.9,5.97,41.13,0
+STU-00421,Arts,Humanities,Male,0,Postgraduate,18,66.3,54.4,6.3,51.77,0
+STU-00422,Health,Health,Male,0,Undergraduate,27,70.8,49.07,5.8,45.13,1
+STU-00423,Computing,Technology,Female,0,Postgraduate,27,68.67,38.77,5.6,57.7,0
+STU-00424,Social Sciences,Social Sciences,Female,0,Undergraduate,17,71.53,42.97,6.2,53.87,0
+STU-00425,Engineering,Engineering,Female,0,Undergraduate,35,78.53,41.97,7.0,49.67,0
+STU-00426,Health,Health,Female,0,Undergraduate,43,70.77,50.73,6.23,32.7,0
+STU-00427,Computing,Technology,Female,0,Postgraduate,47,74.63,47.33,6.17,44.23,0
+STU-00428,Engineering,Engineering,Prefer not to say,1,Undergraduate,31,67.2,39.17,6.8,35.1,0
+STU-00429,Business,Business,Male,0,Undergraduate,31,74.13,43.1,6.87,48.73,0
+STU-00430,Engineering,Engineering,Female,0,Undergraduate,12,67.8,39.47,6.33,28.6,0
+STU-00431,Health,Health,Female,0,Postgraduate,28,71.87,56.17,6.77,54.2,0
+STU-00432,Business,Business,Male,1,Undergraduate,26,77.53,49.3,5.37,41.87,0
+STU-00433,Business,Business,Prefer not to say,0,Undergraduate,10,64.03,56.57,6.3,35.5,0
+STU-00434,Computing,Technology,Female,1,Undergraduate,6,68.0,43.93,6.43,47.77,0
+STU-00435,Health,Health,Male,1,Undergraduate,7,57.97,50.0,6.67,44.57,0
+STU-00436,Health,Health,Female,0,Postgraduate,35,76.63,49.97,6.5,40.7,0
+STU-00437,Social Sciences,Social Sciences,Male,1,Undergraduate,17,74.03,40.8,6.37,28.87,0
+STU-00438,Business,Business,Male,1,Postgraduate,14,67.2,37.3,5.97,37.0,0
+STU-00439,Computing,Technology,Female,0,Undergraduate,10,74.4,34.83,7.23,47.9,0
+STU-00440,Health,Health,Female,0,Undergraduate,40,74.83,35.03,6.67,49.6,0
+STU-00441,Computing,Technology,Female,0,Postgraduate,16,71.47,39.23,5.83,43.93,0
+STU-00442,Social Sciences,Social Sciences,Male,0,Postgraduate,20,67.97,41.97,5.9,29.43,0
+STU-00443,Business,Business,Female,0,Postgraduate,37,68.13,48.03,6.37,46.9,0
+STU-00444,Business,Business,Male,0,Undergraduate,20,67.63,49.07,5.33,35.7,1
+STU-00445,Arts,Humanities,Male,0,Undergraduate,13,70.13,49.6,7.0,48.23,0
+STU-00446,Health,Health,Male,0,Undergraduate,8,69.57,47.73,5.87,40.27,0
+STU-00447,Business,Business,Prefer not to say,1,Undergraduate,4,67.93,31.4,7.1,47.87,0
+STU-00448,Business,Business,Female,0,Undergraduate,39,70.97,48.27,5.3,33.53,0
+STU-00449,Social Sciences,Social Sciences,Male,0,Undergraduate,13,75.63,45.3,6.37,42.07,0
+STU-00450,Arts,Humanities,Male,0,Undergraduate,22,72.03,46.9,6.2,51.47,1
+STU-00451,Social Sciences,Social Sciences,Male,0,Undergraduate,24,84.3,33.07,6.87,40.93,0
+STU-00452,Engineering,Engineering,Female,0,Undergraduate,3,55.9,52.4,5.43,50.97,0
+STU-00453,Engineering,Engineering,Male,0,Undergraduate,1,62.6,47.97,6.3,45.03,0
+STU-00454,Computing,Technology,Non-binary,1,Undergraduate,6,64.27,45.87,5.77,45.63,0
+STU-00455,Engineering,Engineering,Female,0,Undergraduate,24,75.1,50.47,6.07,54.67,0
+STU-00456,Arts,Humanities,Prefer not to say,1,Undergraduate,47,71.2,48.13,6.83,42.07,0
+STU-00457,Health,Health,Female,0,Undergraduate,47,75.9,46.37,5.4,37.67,0
+STU-00458,Business,Business,Male,0,Undergraduate,47,72.4,40.67,5.87,47.57,0
+STU-00459,Health,Health,Female,0,Undergraduate,2,71.63,43.4,7.07,54.5,0
+STU-00460,Social Sciences,Social Sciences,Male,0,Undergraduate,24,76.03,47.47,5.5,46.03,0
+STU-00461,Business,Business,Male,1,Postgraduate,34,68.17,41.2,4.73,43.4,0
+STU-00462,Engineering,Engineering,Female,1,Undergraduate,10,60.17,39.6,7.33,39.13,0
+STU-00463,Engineering,Engineering,Male,0,Postgraduate,9,70.1,48.27,6.0,45.7,1
+STU-00464,Computing,Technology,Male,0,Undergraduate,18,68.8,44.67,6.27,42.33,0
+STU-00465,Social Sciences,Social Sciences,Male,0,Postgraduate,25,69.53,49.63,6.23,60.67,0
+STU-00466,Social Sciences,Social Sciences,Male,0,Undergraduate,13,64.97,53.4,5.47,39.1,0
+STU-00467,Health,Health,Male,0,Undergraduate,21,72.63,50.37,5.6,48.17,0
+STU-00468,Business,Business,Male,1,Postgraduate,12,66.13,49.7,6.57,50.1,0
+STU-00469,Computing,Technology,Female,0,Undergraduate,35,70.4,38.97,5.63,55.37,0
+STU-00470,Business,Business,Female,0,Undergraduate,4,63.97,52.87,5.63,40.5,0
+STU-00471,Business,Business,Non-binary,0,Postgraduate,24,77.73,59.2,7.1,38.83,0
+STU-00472,Social Sciences,Social Sciences,Non-binary,0,Postgraduate,15,74.13,44.5,6.83,51.3,0
+STU-00473,Social Sciences,Social Sciences,Male,1,Undergraduate,2,58.9,39.13,6.0,53.87,0
+STU-00474,Computing,Technology,Female,1,Undergraduate,18,72.8,46.1,6.87,51.3,0
+STU-00475,Health,Health,Female,1,Undergraduate,34,73.33,47.1,6.5,43.67,0
+STU-00476,Engineering,Engineering,Female,0,Postgraduate,17,64.97,57.43,6.43,41.1,0
+STU-00477,Health,Health,Female,0,Postgraduate,26,74.17,47.7,6.1,33.4,0
+STU-00478,Engineering,Engineering,Male,1,Postgraduate,17,72.27,34.9,6.03,43.43,0
+STU-00479,Business,Business,Male,0,Undergraduate,4,69.1,42.9,6.0,62.77,0
+STU-00480,Business,Business,Female,0,Undergraduate,37,71.87,52.53,5.67,39.23,0
+STU-00481,Arts,Humanities,Male,0,Undergraduate,18,73.17,52.47,6.83,44.87,0
+STU-00482,Business,Business,Male,0,Undergraduate,6,61.67,38.67,6.37,42.9,0
+STU-00483,Computing,Technology,Male,0,Undergraduate,43,70.33,41.13,6.43,33.5,0
+STU-00484,Health,Health,Male,0,Undergraduate,27,76.27,49.87,6.63,38.13,0
+STU-00485,Business,Business,Male,0,Postgraduate,25,67.4,48.33,5.93,50.27,0
+STU-00486,Computing,Technology,Male,0,Undergraduate,46,68.53,48.07,5.97,32.43,0
+STU-00487,Arts,Humanities,Male,0,Postgraduate,46,82.43,46.07,6.83,42.57,0
+STU-00488,Arts,Humanities,Male,0,Undergraduate,31,71.83,42.23,6.0,40.73,0
+STU-00489,Health,Health,Male,0,Undergraduate,2,70.93,34.7,6.07,48.27,0
+STU-00490,Social Sciences,Social Sciences,Female,1,Undergraduate,28,72.1,51.07,6.9,50.93,0
+STU-00491,Social Sciences,Social Sciences,Female,0,Postgraduate,6,70.53,45.73,5.77,52.43,0
+STU-00492,Arts,Humanities,Female,0,Postgraduate,5,63.8,50.23,5.67,51.07,0
+STU-00493,Health,Health,Non-binary,0,Postgraduate,44,73.67,44.03,6.57,46.93,0
+STU-00494,Engineering,Engineering,Female,0,Undergraduate,16,69.67,49.83,6.0,47.73,0
+STU-00495,Computing,Technology,Male,1,Postgraduate,20,74.73,45.27,6.77,51.9,0
+STU-00496,Health,Health,Male,1,Postgraduate,27,64.93,51.87,6.4,36.17,0
+STU-00497,Engineering,Engineering,Male,1,Undergraduate,42,56.5,54.4,6.1,39.67,0
+STU-00498,Health,Health,Male,0,Undergraduate,14,78.6,33.9,7.5,32.7,0
+STU-00499,Arts,Humanities,Male,0,Undergraduate,10,63.3,63.3,5.53,37.13,0
+STU-00500,Computing,Technology,Male,0,Undergraduate,4,66.0,48.47,5.77,42.47,0
+STU-00501,Arts,Humanities,Male,1,Postgraduate,19,61.5,57.87,5.1,53.43,0
+STU-00502,Engineering,Engineering,Male,1,Undergraduate,25,68.87,51.13,6.93,45.17,0
+STU-00503,Engineering,Engineering,Female,0,Postgraduate,39,68.7,57.67,6.03,48.03,0
+STU-00504,Arts,Humanities,Female,0,Undergraduate,25,77.93,45.33,5.6,25.03,0
+STU-00505,Business,Business,Female,0,Undergraduate,32,68.07,50.0,6.03,53.23,0
+STU-00506,Engineering,Engineering,Female,1,Undergraduate,37,64.3,55.73,5.77,57.8,0
+STU-00507,Health,Health,Female,1,Undergraduate,28,71.97,42.77,6.83,45.43,0
+STU-00508,Social Sciences,Social Sciences,Non-binary,1,Undergraduate,37,79.6,26.23,6.5,32.53,0
+STU-00509,Engineering,Engineering,Female,0,Undergraduate,35,80.63,47.43,6.73,41.57,0
+STU-00510,Business,Business,Male,0,Postgraduate,25,67.43,46.07,5.53,54.93,0
+STU-00511,Business,Business,Female,1,Undergraduate,5,62.73,47.2,6.77,48.8,0
+STU-00512,Computing,Technology,Female,0,Undergraduate,19,79.07,43.53,6.73,36.2,0
+STU-00513,Health,Health,Male,1,Undergraduate,11,62.27,40.33,6.07,55.27,0
+STU-00514,Health,Health,Female,0,Postgraduate,9,66.87,37.87,6.33,63.57,0
+STU-00515,Arts,Humanities,Male,1,Undergraduate,24,70.67,46.4,6.67,43.63,0
+STU-00516,Computing,Technology,Female,0,Undergraduate,46,77.17,47.2,7.2,51.57,0
+STU-00517,Health,Health,Male,0,Undergraduate,20,68.27,40.43,6.17,39.93,0
+STU-00518,Social Sciences,Social Sciences,Female,0,Undergraduate,3,69.8,38.9,6.53,44.37,0
+STU-00519,Arts,Humanities,Female,0,Undergraduate,20,78.13,49.97,6.57,48.97,1
+STU-00520,Health,Health,Male,0,Undergraduate,26,69.47,54.5,5.9,49.1,0
+STU-00521,Engineering,Engineering,Prefer not to say,0,Postgraduate,22,69.33,47.37,6.17,43.63,0
+STU-00522,Engineering,Engineering,Female,1,Postgraduate,47,61.97,54.53,6.37,40.67,1
+STU-00523,Engineering,Engineering,Male,1,Undergraduate,41,64.0,43.7,6.47,41.57,1
+STU-00524,Engineering,Engineering,Male,0,Undergraduate,27,76.03,39.9,6.63,45.23,0
+STU-00525,Arts,Humanities,Female,0,Undergraduate,31,77.73,48.53,6.0,39.37,0
+STU-00526,Business,Business,Male,0,Undergraduate,35,77.7,40.57,6.23,48.13,0
+STU-00527,Social Sciences,Social Sciences,Male,1,Undergraduate,13,62.03,49.97,6.23,52.6,0
+STU-00528,Arts,Humanities,Male,0,Undergraduate,10,64.03,40.93,6.0,50.0,0
+STU-00529,Engineering,Engineering,Female,0,Undergraduate,5,65.53,59.1,6.27,38.83,0
+STU-00530,Business,Business,Male,0,Postgraduate,42,74.73,43.63,6.33,51.13,0
+STU-00531,Social Sciences,Social Sciences,Male,1,Undergraduate,23,73.7,41.2,6.07,45.77,0
+STU-00532,Computing,Technology,Prefer not to say,0,Undergraduate,25,73.3,44.37,6.2,40.27,0
+STU-00533,Business,Business,Female,0,Undergraduate,32,78.33,36.7,6.57,58.37,0
+STU-00534,Business,Business,Male,0,Undergraduate,27,73.53,50.87,5.6,40.87,0
+STU-00535,Engineering,Engineering,Male,0,Undergraduate,6,50.03,61.43,5.77,43.57,1
+STU-00536,Business,Business,Prefer not to say,0,Undergraduate,42,74.63,45.67,7.17,54.43,0
+STU-00537,Social Sciences,Social Sciences,Male,0,Undergraduate,9,68.27,48.57,6.37,51.1,0
+STU-00538,Computing,Technology,Male,0,Undergraduate,44,76.33,45.73,6.63,40.97,0
+STU-00539,Computing,Technology,Female,1,Undergraduate,37,67.13,55.8,6.33,38.6,0
+STU-00540,Computing,Technology,Prefer not to say,1,Postgraduate,20,72.3,33.93,6.13,50.53,0
+STU-00541,Business,Business,Female,0,Undergraduate,36,79.47,34.5,6.53,41.03,0
+STU-00542,Health,Health,Prefer not to say,1,Undergraduate,42,75.3,47.1,6.57,50.37,0
+STU-00543,Social Sciences,Social Sciences,Female,0,Undergraduate,10,64.87,52.73,5.9,27.8,0
+STU-00544,Health,Health,Female,0,Postgraduate,3,67.97,40.83,6.1,62.53,0
+STU-00545,Arts,Humanities,Non-binary,1,Undergraduate,42,71.73,58.8,6.53,46.97,0
+STU-00546,Engineering,Engineering,Male,0,Postgraduate,27,69.73,50.37,5.93,52.77,0
+STU-00547,Health,Health,Female,1,Postgraduate,13,72.27,36.83,7.1,34.63,0
+STU-00548,Computing,Technology,Male,0,Undergraduate,34,72.87,42.17,6.8,38.27,0
+STU-00549,Business,Business,Male,1,Undergraduate,11,60.4,52.4,6.1,29.9,1
+STU-00550,Business,Business,Prefer not to say,0,Undergraduate,26,72.8,63.57,6.57,53.27,0
+STU-00551,Engineering,Engineering,Non-binary,0,Undergraduate,18,71.87,43.8,6.07,37.9,0
+STU-00552,Business,Business,Non-binary,0,Undergraduate,22,68.67,50.93,4.63,44.9,0
+STU-00553,Social Sciences,Social Sciences,Male,0,Undergraduate,6,57.8,57.13,6.07,55.03,0
+STU-00554,Computing,Technology,Female,0,Undergraduate,22,71.53,42.63,5.3,41.23,1
+STU-00555,Computing,Technology,Male,0,Undergraduate,47,73.3,52.7,6.17,39.97,0
+STU-00556,Business,Business,Male,0,Undergraduate,44,68.57,45.07,6.3,44.7,0
+STU-00557,Engineering,Engineering,Female,0,Postgraduate,32,70.43,53.0,6.33,40.23,0
+STU-00558,Computing,Technology,Female,0,Undergraduate,46,70.3,47.27,6.17,43.37,0
+STU-00559,Computing,Technology,Male,1,Undergraduate,14,60.7,54.97,6.5,43.23,0
+STU-00560,Computing,Technology,Female,0,Postgraduate,25,73.77,45.1,6.83,39.73,0
+STU-00561,Business,Business,Male,0,Undergraduate,40,62.33,59.17,5.77,61.37,0
+STU-00562,Social Sciences,Social Sciences,Female,1,Undergraduate,13,59.67,38.5,5.53,42.77,0
+STU-00563,Engineering,Engineering,Female,1,Undergraduate,48,72.03,48.73,6.13,28.77,0
+STU-00564,Business,Business,Male,1,Undergraduate,21,68.13,44.43,6.07,50.87,1
+STU-00565,Social Sciences,Social Sciences,Female,0,Undergraduate,30,75.53,52.7,5.83,37.0,0
+STU-00566,Health,Health,Male,0,Undergraduate,4,65.6,44.97,6.23,49.4,0
+STU-00567,Social Sciences,Social Sciences,Female,1,Postgraduate,35,67.67,52.17,6.5,45.6,0
+STU-00568,Social Sciences,Social Sciences,Female,0,Undergraduate,39,68.87,39.7,5.87,56.4,0
+STU-00569,Engineering,Engineering,Male,0,Postgraduate,41,64.9,55.17,5.6,48.0,1
+STU-00570,Social Sciences,Social Sciences,Female,0,Postgraduate,44,76.1,49.17,5.27,60.73,0
+STU-00571,Social Sciences,Social Sciences,Female,0,Undergraduate,23,64.7,49.77,5.63,42.4,0
+STU-00572,Health,Health,Female,0,Undergraduate,23,70.83,54.7,5.17,43.07,0
+STU-00573,Engineering,Engineering,Female,1,Undergraduate,19,62.5,45.97,6.07,45.23,0
+STU-00574,Health,Health,Male,0,Postgraduate,7,72.23,37.37,6.23,41.27,0
+STU-00575,Health,Health,Male,1,Undergraduate,38,71.57,35.57,6.13,45.37,0
+STU-00576,Arts,Humanities,Female,0,Undergraduate,7,67.6,53.17,5.87,47.57,0
+STU-00577,Business,Business,Male,0,Postgraduate,14,67.93,46.5,6.2,50.33,0
+STU-00578,Health,Health,Male,1,Undergraduate,46,66.43,40.6,6.0,40.8,0
+STU-00579,Health,Health,Male,1,Undergraduate,10,61.8,43.53,5.73,52.47,0
+STU-00580,Social Sciences,Social Sciences,Female,0,Undergraduate,35,74.03,49.97,5.83,42.27,0
+STU-00581,Computing,Technology,Female,1,Undergraduate,15,70.77,37.73,6.3,46.67,0
+STU-00582,Computing,Technology,Female,0,Undergraduate,32,77.93,52.7,6.57,35.73,0
+STU-00583,Arts,Humanities,Female,1,Undergraduate,11,69.4,41.77,6.1,59.83,0
+STU-00584,Computing,Technology,Female,0,Undergraduate,38,79.47,43.27,5.4,48.27,0
+STU-00585,Business,Business,Female,0,Undergraduate,20,64.83,39.63,5.93,47.1,0
+STU-00586,Computing,Technology,Female,1,Undergraduate,31,62.6,44.5,5.77,36.8,0
+STU-00587,Engineering,Engineering,Female,0,Postgraduate,41,70.1,48.5,6.6,46.0,0
+STU-00588,Engineering,Engineering,Female,1,Undergraduate,27,64.23,42.07,6.5,57.73,0
+STU-00589,Social Sciences,Social Sciences,Female,0,Postgraduate,45,69.57,37.8,6.57,55.73,0
+STU-00590,Computing,Technology,Male,0,Undergraduate,41,74.27,50.37,6.13,49.3,0
+STU-00591,Engineering,Engineering,Female,1,Undergraduate,37,68.5,56.03,6.8,41.67,0
+STU-00592,Engineering,Engineering,Female,0,Undergraduate,14,65.93,52.03,5.27,54.6,0
+STU-00593,Business,Business,Female,1,Undergraduate,6,64.3,51.67,5.73,54.57,0
+STU-00594,Social Sciences,Social Sciences,Female,0,Postgraduate,45,67.23,53.07,5.9,53.4,0
+STU-00595,Health,Health,Male,0,Undergraduate,17,69.87,47.23,6.13,37.87,0
+STU-00596,Engineering,Engineering,Male,0,Undergraduate,36,67.47,54.3,5.83,47.27,0
+STU-00597,Health,Health,Female,1,Undergraduate,4,67.43,48.77,6.57,56.1,0
+STU-00598,Arts,Humanities,Female,1,Undergraduate,27,71.13,58.3,5.17,46.73,0
+STU-00599,Computing,Technology,Female,1,Undergraduate,9,57.97,51.8,6.3,47.67,0
+STU-00600,Health,Health,Female,1,Undergraduate,19,73.6,32.63,6.6,50.57,0
+STU-00601,Business,Business,Male,0,Undergraduate,24,68.73,52.97,6.0,44.57,0
+STU-00602,Health,Health,Male,1,Postgraduate,14,74.3,48.67,6.67,48.07,0
+STU-00603,Business,Business,Male,0,Undergraduate,46,74.07,36.73,5.87,55.4,0
+STU-00604,Engineering,Engineering,Female,0,Undergraduate,4,67.8,47.67,6.07,52.33,0
+STU-00605,Computing,Technology,Male,0,Undergraduate,11,68.3,44.7,5.9,42.37,0
+STU-00606,Engineering,Engineering,Female,1,Undergraduate,25,65.5,45.8,6.1,45.8,0
+STU-00607,Business,Business,Male,1,Postgraduate,22,80.4,32.8,6.4,31.27,0
+STU-00608,Business,Business,Female,0,Postgraduate,47,73.4,49.13,6.37,49.4,0
+STU-00609,Health,Health,Male,0,Undergraduate,45,84.57,37.87,5.93,50.87,0
+STU-00610,Health,Health,Female,0,Undergraduate,36,73.33,34.53,6.47,48.9,0
+STU-00611,Engineering,Engineering,Female,0,Undergraduate,9,63.03,41.03,6.37,47.47,0
+STU-00612,Computing,Technology,Male,0,Undergraduate,44,73.33,44.5,6.23,48.7,0
+STU-00613,Health,Health,Female,1,Postgraduate,37,73.6,37.27,5.9,41.37,0
+STU-00614,Engineering,Engineering,Male,0,Postgraduate,45,69.2,47.03,5.93,50.3,0
+STU-00615,Business,Business,Male,0,Postgraduate,45,69.63,46.07,6.13,39.07,1
+STU-00616,Business,Business,Male,0,Postgraduate,32,68.93,56.5,5.7,37.37,1
+STU-00617,Arts,Humanities,Male,0,Undergraduate,32,80.77,34.13,5.23,40.0,0
+STU-00618,Social Sciences,Social Sciences,Female,0,Undergraduate,29,78.17,37.73,6.73,60.17,0
+STU-00619,Social Sciences,Social Sciences,Female,0,Postgraduate,4,69.7,35.0,5.97,49.6,0
+STU-00620,Computing,Technology,Female,0,Undergraduate,41,69.13,45.0,5.77,43.4,0
+STU-00621,Arts,Humanities,Female,0,Undergraduate,11,69.47,43.43,6.87,39.63,0
+STU-00622,Business,Business,Male,0,Postgraduate,2,62.73,50.13,5.6,52.73,0
+STU-00623,Engineering,Engineering,Male,0,Undergraduate,30,69.17,45.23,6.03,40.17,0
+STU-00624,Health,Health,Male,0,Undergraduate,4,68.67,44.63,6.3,57.13,0
+STU-00625,Arts,Humanities,Male,1,Undergraduate,22,72.4,32.07,6.83,44.63,0
+STU-00626,Health,Health,Female,0,Postgraduate,9,75.0,42.6,6.1,50.97,0
+STU-00627,Arts,Humanities,Female,0,Undergraduate,19,62.8,50.57,5.0,46.6,0
+STU-00628,Arts,Humanities,Female,0,Undergraduate,4,73.77,41.93,6.5,50.57,0
+STU-00629,Social Sciences,Social Sciences,Male,0,Undergraduate,47,70.4,39.63,5.73,38.4,0
+STU-00630,Engineering,Engineering,Male,0,Postgraduate,19,76.97,44.23,6.27,44.97,0
+STU-00631,Health,Health,Female,0,Postgraduate,8,64.5,49.83,6.03,44.53,0
+STU-00632,Computing,Technology,Female,0,Postgraduate,40,66.7,46.87,5.97,40.63,0
+STU-00633,Computing,Technology,Female,1,Undergraduate,7,64.0,51.13,5.97,46.37,0
+STU-00634,Health,Health,Female,1,Undergraduate,21,64.33,56.7,6.57,42.47,0
+STU-00635,Engineering,Engineering,Non-binary,0,Undergraduate,41,73.17,51.2,6.23,51.3,0
+STU-00636,Computing,Technology,Prefer not to say,0,Undergraduate,48,75.47,36.9,6.53,35.4,0
+STU-00637,Engineering,Engineering,Male,1,Undergraduate,41,68.27,53.1,6.73,59.1,0
+STU-00638,Health,Health,Female,0,Undergraduate,1,59.2,53.63,6.13,58.63,0
+STU-00639,Social Sciences,Social Sciences,Prefer not to say,0,Postgraduate,18,71.2,47.03,6.5,51.4,0
+STU-00640,Social Sciences,Social Sciences,Male,0,Undergraduate,46,69.37,39.83,7.13,50.63,0
+STU-00641,Engineering,Engineering,Female,0,Undergraduate,6,56.9,55.63,5.73,46.0,0
+STU-00642,Social Sciences,Social Sciences,Male,0,Undergraduate,21,71.33,44.3,7.07,51.37,0
+STU-00643,Health,Health,Female,0,Undergraduate,19,73.77,46.93,5.93,46.8,0
+STU-00644,Social Sciences,Social Sciences,Female,1,Undergraduate,26,67.03,43.97,6.4,32.73,0
+STU-00645,Health,Health,Male,1,Undergraduate,48,78.33,43.87,6.87,50.17,0
+STU-00646,Health,Health,Female,0,Postgraduate,19,73.23,49.33,6.2,40.4,0
+STU-00647,Health,Health,Male,0,Undergraduate,23,76.4,49.57,6.47,63.77,0
+STU-00648,Computing,Technology,Male,0,Undergraduate,14,66.83,45.3,7.17,47.6,0
+STU-00649,Arts,Humanities,Female,0,Undergraduate,20,77.47,47.0,5.67,50.0,0
+STU-00650,Engineering,Engineering,Female,0,Postgraduate,1,65.53,41.07,6.23,46.43,0
+STU-00651,Business,Business,Male,0,Postgraduate,17,73.67,45.57,6.63,40.33,0
+STU-00652,Health,Health,Male,1,Undergraduate,18,66.1,47.8,6.3,43.47,0
+STU-00653,Engineering,Engineering,Male,0,Postgraduate,24,64.8,46.1,6.07,40.8,0
+STU-00654,Arts,Humanities,Female,0,Undergraduate,40,74.3,51.5,5.33,46.93,0
+STU-00655,Engineering,Engineering,Female,0,Postgraduate,23,64.53,57.2,5.97,33.07,0
+STU-00656,Business,Business,Female,0,Undergraduate,33,81.13,39.57,6.3,42.7,0
+STU-00657,Engineering,Engineering,Male,0,Postgraduate,3,73.37,40.37,5.7,50.5,0
+STU-00658,Business,Business,Prefer not to say,1,Undergraduate,6,67.03,43.93,5.6,46.0,0
+STU-00659,Engineering,Engineering,Male,0,Undergraduate,45,65.6,56.57,5.73,55.1,0
+STU-00660,Arts,Humanities,Female,0,Undergraduate,18,60.97,65.2,5.23,45.1,0
+STU-00661,Business,Business,Male,0,Undergraduate,19,75.67,52.8,6.27,61.0,0
+STU-00662,Arts,Humanities,Female,1,Postgraduate,28,69.53,48.07,5.47,54.73,0
+STU-00663,Business,Business,Female,0,Undergraduate,19,76.0,46.57,6.5,42.93,0
+STU-00664,Arts,Humanities,Prefer not to say,0,Undergraduate,11,72.87,47.0,5.57,48.87,0
+STU-00665,Social Sciences,Social Sciences,Female,0,Undergraduate,34,65.0,39.7,6.43,48.77,0
+STU-00666,Business,Business,Prefer not to say,0,Undergraduate,1,63.5,40.7,5.8,55.7,0
+STU-00667,Business,Business,Female,0,Undergraduate,44,73.7,42.1,6.23,41.0,0
+STU-00668,Health,Health,Male,1,Postgraduate,25,72.2,48.57,6.63,45.63,0
+STU-00669,Engineering,Engineering,Female,0,Undergraduate,28,65.37,54.9,6.77,40.63,0
+STU-00670,Computing,Technology,Female,0,Undergraduate,31,83.93,35.37,5.9,62.63,0
+STU-00671,Health,Health,Female,1,Undergraduate,35,78.0,41.43,5.97,48.4,0
+STU-00672,Social Sciences,Social Sciences,Female,0,Undergraduate,32,77.27,42.83,6.6,38.0,0
+STU-00673,Computing,Technology,Male,0,Postgraduate,15,83.63,36.77,7.3,45.37,0
+STU-00674,Arts,Humanities,Male,1,Undergraduate,34,70.17,44.03,5.83,43.77,0
+STU-00675,Business,Business,Male,1,Postgraduate,47,73.57,45.97,6.27,51.33,0
+STU-00676,Computing,Technology,Male,0,Undergraduate,6,63.6,48.9,5.87,36.03,0
+STU-00677,Social Sciences,Social Sciences,Female,1,Undergraduate,18,68.8,50.53,5.73,51.37,0
+STU-00678,Computing,Technology,Female,0,Undergraduate,33,75.3,35.73,6.07,45.93,0
+STU-00679,Arts,Humanities,Male,0,Undergraduate,32,76.7,48.7,6.27,43.93,0
+STU-00680,Health,Health,Female,0,Postgraduate,19,73.0,38.27,6.57,51.2,0
+STU-00681,Engineering,Engineering,Male,0,Postgraduate,9,65.73,43.87,5.6,34.27,0
+STU-00682,Engineering,Engineering,Male,0,Undergraduate,11,52.47,43.3,6.27,51.4,0
+STU-00683,Computing,Technology,Female,0,Undergraduate,34,72.63,36.1,5.13,45.63,0
+STU-00684,Computing,Technology,Male,1,Undergraduate,45,66.33,52.67,5.87,38.23,0
+STU-00685,Arts,Humanities,Male,0,Undergraduate,23,80.5,38.3,6.53,41.27,0
+STU-00686,Social Sciences,Social Sciences,Female,0,Undergraduate,3,67.87,43.57,6.43,47.6,0
+STU-00687,Computing,Technology,Male,1,Undergraduate,44,72.13,42.8,6.43,48.57,0
+STU-00688,Business,Business,Female,0,Undergraduate,18,79.33,46.2,6.3,52.87,0
+STU-00689,Arts,Humanities,Female,0,Undergraduate,21,80.13,31.03,6.57,49.57,0
+STU-00690,Health,Health,Male,0,Undergraduate,19,74.1,42.57,5.73,36.33,0
+STU-00691,Social Sciences,Social Sciences,Female,1,Undergraduate,10,63.37,47.53,5.93,47.87,1
+STU-00692,Computing,Technology,Male,0,Postgraduate,6,71.37,46.13,6.33,53.23,0
+STU-00693,Arts,Humanities,Female,0,Undergraduate,28,78.0,39.63,5.2,37.73,0
+STU-00694,Computing,Technology,Male,0,Undergraduate,44,77.97,38.5,6.13,45.0,0
+STU-00695,Health,Health,Prefer not to say,0,Postgraduate,46,79.53,40.73,6.27,47.83,0
+STU-00696,Social Sciences,Social Sciences,Female,1,Postgraduate,15,71.5,37.13,6.33,39.27,0
+STU-00697,Arts,Humanities,Female,1,Undergraduate,15,74.57,47.17,6.97,43.2,0
+STU-00698,Computing,Technology,Male,1,Undergraduate,47,68.8,45.37,5.17,45.07,0
+STU-00699,Computing,Technology,Male,0,Postgraduate,36,82.23,36.47,7.43,45.57,0
+STU-00700,Social Sciences,Social Sciences,Male,1,Undergraduate,15,68.97,45.0,6.3,44.47,0
+STU-00701,Arts,Humanities,Female,1,Undergraduate,1,64.93,36.7,6.07,47.63,0
+STU-00702,Engineering,Engineering,Male,1,Undergraduate,16,70.47,48.6,6.07,42.1,0
+STU-00703,Social Sciences,Social Sciences,Female,0,Undergraduate,33,78.1,35.33,6.73,35.07,0
+STU-00704,Engineering,Engineering,Female,1,Postgraduate,14,58.8,50.63,5.5,55.23,1
+STU-00705,Health,Health,Male,0,Postgraduate,17,68.63,42.43,5.47,35.07,0
+STU-00706,Health,Health,Male,0,Postgraduate,11,62.4,53.7,6.5,36.53,0
+STU-00707,Engineering,Engineering,Female,0,Undergraduate,15,64.73,43.57,5.9,39.43,0
+STU-00708,Business,Business,Prefer not to say,1,Postgraduate,8,59.1,47.2,6.53,31.63,0
+STU-00709,Health,Health,Male,1,Undergraduate,48,71.1,52.9,6.3,57.43,0
+STU-00710,Arts,Humanities,Prefer not to say,0,Undergraduate,7,73.37,51.53,6.27,41.9,0
+STU-00711,Engineering,Engineering,Male,0,Postgraduate,21,63.27,52.2,5.77,51.0,0
+STU-00712,Engineering,Engineering,Female,0,Postgraduate,45,66.47,50.47,5.83,44.03,0
+STU-00713,Health,Health,Non-binary,0,Postgraduate,34,76.1,42.63,6.27,45.7,0
+STU-00714,Business,Business,Female,0,Undergraduate,20,73.97,54.37,6.8,51.17,0
+STU-00715,Health,Health,Female,0,Undergraduate,14,72.27,52.43,6.57,42.3,0
+STU-00716,Social Sciences,Social Sciences,Female,0,Undergraduate,41,72.77,51.83,5.4,56.0,0
+STU-00717,Health,Health,Non-binary,0,Undergraduate,11,60.37,58.37,6.4,52.9,0
+STU-00718,Engineering,Engineering,Female,1,Postgraduate,14,56.9,53.87,6.73,33.67,1
+STU-00719,Social Sciences,Social Sciences,Male,1,Undergraduate,26,75.97,46.4,6.4,34.47,0
+STU-00720,Engineering,Engineering,Prefer not to say,1,Undergraduate,38,71.43,44.1,6.07,49.13,0
+STU-00721,Health,Health,Male,1,Undergraduate,28,63.97,52.17,6.7,45.67,0
+STU-00722,Computing,Technology,Male,0,Undergraduate,36,66.63,52.9,5.77,45.9,0
+STU-00723,Computing,Technology,Female,0,Undergraduate,13,64.83,49.37,5.97,24.8,0
+STU-00724,Social Sciences,Social Sciences,Female,0,Undergraduate,35,75.4,44.83,6.63,38.97,0
+STU-00725,Computing,Technology,Male,0,Undergraduate,6,66.23,49.07,6.3,49.7,0
+STU-00726,Business,Business,Male,0,Undergraduate,29,74.67,47.1,6.7,54.07,0
+STU-00727,Health,Health,Male,0,Undergraduate,12,70.63,53.4,5.73,47.0,0
+STU-00728,Business,Business,Female,0,Undergraduate,21,79.17,35.53,6.5,46.8,0
+STU-00729,Computing,Technology,Female,1,Undergraduate,8,53.6,58.37,5.73,54.57,0
+STU-00730,Computing,Technology,Female,1,Undergraduate,8,62.87,57.77,6.07,43.77,1
+STU-00731,Arts,Humanities,Female,0,Postgraduate,40,73.43,40.03,4.87,33.33,0
+STU-00732,Business,Business,Prefer not to say,0,Postgraduate,27,76.07,43.77,6.0,50.3,0
+STU-00733,Social Sciences,Social Sciences,Male,0,Postgraduate,24,66.3,45.67,6.13,36.3,1
+STU-00734,Arts,Humanities,Female,0,Undergraduate,24,78.4,49.87,6.3,52.57,0
+STU-00735,Computing,Technology,Female,1,Postgraduate,18,65.93,46.4,5.53,47.93,0
+STU-00736,Business,Business,Non-binary,1,Postgraduate,22,59.57,57.67,4.97,35.47,0
+STU-00737,Social Sciences,Social Sciences,Male,0,Postgraduate,20,75.97,46.17,6.6,41.5,0
+STU-00738,Health,Health,Male,1,Undergraduate,19,66.47,44.07,6.6,36.77,0
+STU-00739,Computing,Technology,Female,0,Undergraduate,43,70.97,53.43,5.6,45.5,0
+STU-00740,Arts,Humanities,Male,1,Undergraduate,25,71.73,48.5,5.5,42.03,0
+STU-00741,Business,Business,Male,0,Undergraduate,28,70.23,55.53,5.57,45.33,0
+STU-00742,Computing,Technology,Male,0,Undergraduate,25,67.77,53.17,6.2,48.5,0
+STU-00743,Business,Business,Male,0,Undergraduate,27,77.0,40.93,6.8,42.97,0
+STU-00744,Health,Health,Female,1,Undergraduate,19,71.6,40.77,7.3,31.4,0
+STU-00745,Arts,Humanities,Female,1,Undergraduate,8,62.97,38.3,6.47,53.17,0
+STU-00746,Computing,Technology,Male,0,Undergraduate,45,70.17,52.0,6.03,54.03,0
+STU-00747,Arts,Humanities,Male,0,Undergraduate,34,74.8,46.2,6.3,35.9,0
+STU-00748,Arts,Humanities,Male,0,Undergraduate,17,79.3,36.43,6.57,43.4,1
+STU-00749,Arts,Humanities,Female,1,Undergraduate,43,72.4,42.1,6.53,48.07,0
+STU-00750,Arts,Humanities,Female,0,Undergraduate,46,82.57,43.63,6.17,48.07,0
+STU-00751,Engineering,Engineering,Male,0,Postgraduate,15,69.33,55.03,6.53,38.6,0
+STU-00752,Health,Health,Female,0,Undergraduate,17,67.83,42.4,6.03,46.07,0
+STU-00753,Business,Business,Female,0,Undergraduate,44,81.73,46.17,5.93,56.77,0
+STU-00754,Arts,Humanities,Male,0,Undergraduate,21,72.17,47.47,5.9,45.8,0
+STU-00755,Computing,Technology,Male,0,Undergraduate,5,67.9,41.8,7.03,32.23,0
+STU-00756,Health,Health,Female,0,Undergraduate,42,71.6,43.9,5.9,43.9,0
+STU-00757,Arts,Humanities,Female,0,Undergraduate,35,72.03,44.53,6.53,50.27,0
+STU-00758,Engineering,Engineering,Male,0,Undergraduate,26,66.87,53.03,5.97,46.13,0
+STU-00759,Business,Business,Male,0,Undergraduate,25,77.77,38.1,6.13,35.0,0
+STU-00760,Business,Business,Female,0,Postgraduate,4,62.63,53.23,5.5,46.73,0
+STU-00761,Social Sciences,Social Sciences,Male,0,Undergraduate,46,77.3,35.33,6.0,22.3,0
+STU-00762,Engineering,Engineering,Male,0,Undergraduate,22,69.13,48.07,6.2,38.73,0
+STU-00763,Arts,Humanities,Female,1,Undergraduate,20,64.9,55.93,6.53,46.33,0
+STU-00764,Social Sciences,Social Sciences,Female,1,Undergraduate,19,73.77,43.03,6.3,50.93,0
+STU-00765,Engineering,Engineering,Female,1,Undergraduate,34,74.6,35.67,6.37,31.13,0
+STU-00766,Arts,Humanities,Female,0,Undergraduate,6,63.03,46.2,5.37,40.6,0
+STU-00767,Business,Business,Male,0,Undergraduate,45,75.27,50.3,5.77,39.77,0
+STU-00768,Computing,Technology,Female,0,Undergraduate,21,77.27,40.17,6.07,39.17,0
+STU-00769,Business,Business,Female,0,Undergraduate,3,64.17,48.8,5.87,35.07,0
+STU-00770,Engineering,Engineering,Male,0,Undergraduate,8,62.3,49.53,6.13,52.27,0
+STU-00771,Social Sciences,Social Sciences,Male,1,Undergraduate,38,68.43,53.37,6.37,39.87,0
+STU-00772,Arts,Humanities,Female,1,Undergraduate,6,62.3,47.0,6.63,38.6,0
+STU-00773,Business,Business,Male,0,Postgraduate,4,63.9,38.23,6.27,47.9,0
+STU-00774,Social Sciences,Social Sciences,Male,0,Postgraduate,41,73.07,43.63,5.23,47.2,0
+STU-00775,Business,Business,Female,0,Undergraduate,1,62.0,44.43,5.57,52.73,0
+STU-00776,Arts,Humanities,Non-binary,0,Undergraduate,21,77.3,43.43,6.0,42.3,0
+STU-00777,Social Sciences,Social Sciences,Female,0,Postgraduate,35,80.7,43.23,6.2,46.87,0
+STU-00778,Health,Health,Female,1,Postgraduate,17,69.43,41.63,5.97,40.4,0
+STU-00779,Arts,Humanities,Female,0,Undergraduate,3,63.83,46.43,5.73,57.73,0
+STU-00780,Business,Business,Male,1,Undergraduate,22,62.13,53.47,5.6,47.03,0
+STU-00781,Computing,Technology,Male,0,Undergraduate,40,69.97,47.73,6.5,36.1,0
+STU-00782,Business,Business,Male,0,Postgraduate,21,62.83,53.8,6.37,49.6,0
+STU-00783,Engineering,Engineering,Female,0,Undergraduate,23,76.43,41.8,6.83,44.17,0
+STU-00784,Social Sciences,Social Sciences,Female,1,Undergraduate,8,65.87,46.2,6.4,42.37,0
+STU-00785,Business,Business,Female,0,Undergraduate,17,72.6,45.37,5.9,37.7,0
+STU-00786,Computing,Technology,Male,1,Postgraduate,41,64.37,42.2,5.57,50.4,1
+STU-00787,Business,Business,Non-binary,1,Undergraduate,22,66.73,43.8,5.8,45.23,0
+STU-00788,Arts,Humanities,Female,0,Undergraduate,7,77.87,39.5,6.3,34.83,0
+STU-00789,Health,Health,Male,1,Undergraduate,36,74.43,39.03,6.57,54.67,0
+STU-00790,Computing,Technology,Female,0,Postgraduate,39,73.8,54.53,6.53,46.33,0
+STU-00791,Business,Business,Male,1,Undergraduate,32,60.43,60.1,7.3,35.57,0
+STU-00792,Social Sciences,Social Sciences,Female,0,Undergraduate,3,64.73,58.53,5.97,38.57,0
+STU-00793,Arts,Humanities,Male,1,Postgraduate,46,72.2,38.2,6.27,40.03,0
+STU-00794,Health,Health,Male,1,Undergraduate,12,66.37,49.7,6.23,35.7,0
+STU-00795,Health,Health,Male,0,Postgraduate,17,70.17,49.77,6.3,65.67,0
+STU-00796,Business,Business,Male,0,Postgraduate,15,62.6,51.8,6.37,42.4,0
+STU-00797,Arts,Humanities,Female,0,Undergraduate,12,70.07,53.0,6.77,43.67,0
+STU-00798,Engineering,Engineering,Male,0,Undergraduate,15,58.67,45.17,5.27,36.47,1
+STU-00799,Computing,Technology,Female,0,Undergraduate,29,64.73,55.77,4.83,38.07,0
+STU-00800,Health,Health,Female,0,Postgraduate,48,78.57,55.53,6.77,54.7,0
+STU-00801,Health,Health,Male,0,Postgraduate,8,65.0,56.2,5.93,42.87,0
+STU-00802,Computing,Technology,Female,1,Undergraduate,6,63.57,49.73,5.63,59.43,0
+STU-00803,Engineering,Engineering,Male,0,Undergraduate,10,64.83,36.33,6.53,41.47,0
+STU-00804,Computing,Technology,Male,0,Undergraduate,48,72.3,40.13,6.67,39.2,0
+STU-00805,Health,Health,Female,0,Postgraduate,45,76.9,40.6,6.6,50.43,0
+STU-00806,Health,Health,Female,0,Undergraduate,30,78.23,40.73,7.23,37.93,0
+STU-00807,Arts,Humanities,Male,0,Undergraduate,9,68.97,50.3,5.87,27.6,0
+STU-00808,Business,Business,Non-binary,1,Undergraduate,23,65.87,55.1,6.17,38.47,0
+STU-00809,Engineering,Engineering,Female,0,Postgraduate,42,80.07,44.33,6.67,49.3,0
+STU-00810,Health,Health,Female,1,Postgraduate,41,65.93,46.0,5.67,49.33,0
+STU-00811,Computing,Technology,Male,1,Undergraduate,16,70.07,48.87,6.57,40.77,0
+STU-00812,Health,Health,Male,1,Undergraduate,17,65.2,46.27,5.4,51.07,0
+STU-00813,Social Sciences,Social Sciences,Male,1,Undergraduate,9,67.1,49.57,5.33,47.97,0
+STU-00814,Computing,Technology,Female,1,Undergraduate,48,67.33,50.13,6.23,58.83,0
+STU-00815,Business,Business,Non-binary,0,Undergraduate,27,74.2,49.47,5.97,35.53,0
+STU-00816,Business,Business,Female,0,Undergraduate,36,68.57,38.83,5.97,43.1,0
+STU-00817,Business,Business,Male,0,Undergraduate,41,74.3,29.1,6.33,35.57,0
+STU-00818,Engineering,Engineering,Female,0,Undergraduate,10,65.2,49.9,6.63,51.0,0
+STU-00819,Business,Business,Male,0,Undergraduate,42,79.83,44.13,5.63,61.8,0
+STU-00820,Business,Business,Male,0,Undergraduate,47,67.37,44.1,6.2,55.33,0
+STU-00821,Health,Health,Male,1,Undergraduate,16,69.13,46.5,5.83,44.73,0
+STU-00822,Engineering,Engineering,Female,0,Undergraduate,45,72.77,44.87,6.23,46.97,0
+STU-00823,Arts,Humanities,Non-binary,0,Undergraduate,6,60.03,58.73,6.17,55.33,1
+STU-00824,Social Sciences,Social Sciences,Male,0,Postgraduate,37,74.5,49.5,6.3,29.07,0
+STU-00825,Arts,Humanities,Female,1,Undergraduate,6,71.5,39.03,6.1,45.0,0
+STU-00826,Arts,Humanities,Male,0,Undergraduate,11,70.5,47.3,6.8,43.93,0
+STU-00827,Arts,Humanities,Female,0,Undergraduate,7,68.87,47.1,5.4,45.27,0
+STU-00828,Social Sciences,Social Sciences,Non-binary,0,Postgraduate,46,70.8,41.2,5.47,40.8,0
+STU-00829,Business,Business,Male,0,Undergraduate,44,77.73,31.07,6.17,40.4,0
+STU-00830,Engineering,Engineering,Prefer not to say,0,Undergraduate,30,64.9,50.4,6.83,54.07,0
+STU-00831,Social Sciences,Social Sciences,Female,1,Undergraduate,27,70.3,52.2,6.67,38.73,0
+STU-00832,Health,Health,Female,0,Undergraduate,43,83.0,30.0,6.2,51.4,0
+STU-00833,Health,Health,Male,0,Undergraduate,9,72.67,37.1,5.9,39.37,0
+STU-00834,Arts,Humanities,Male,1,Undergraduate,39,87.17,31.2,7.03,50.2,0
+STU-00835,Arts,Humanities,Female,0,Undergraduate,4,67.07,44.73,6.03,40.23,0
+STU-00836,Computing,Technology,Non-binary,0,Undergraduate,35,69.03,46.2,6.23,51.47,0
+STU-00837,Business,Business,Female,0,Undergraduate,27,67.0,41.37,5.83,46.83,0
+STU-00838,Health,Health,Female,1,Undergraduate,13,71.67,51.27,6.8,49.1,0
+STU-00839,Arts,Humanities,Male,0,Undergraduate,41,73.6,47.43,6.43,44.2,0
+STU-00840,Arts,Humanities,Male,0,Undergraduate,42,80.63,39.43,5.73,49.17,0
+STU-00841,Health,Health,Non-binary,1,Postgraduate,19,73.27,35.3,6.83,49.7,0
+STU-00842,Business,Business,Female,0,Undergraduate,40,70.57,45.23,6.2,43.6,0
+STU-00843,Health,Health,Female,1,Undergraduate,2,66.47,53.53,6.43,41.53,0
+STU-00844,Computing,Technology,Female,0,Undergraduate,10,61.77,66.73,5.27,40.9,0
+STU-00845,Health,Health,Female,1,Undergraduate,32,68.27,54.63,5.7,40.4,0
+STU-00846,Health,Health,Female,0,Undergraduate,21,77.43,38.53,5.77,53.13,0
+STU-00847,Engineering,Engineering,Female,0,Postgraduate,14,63.0,47.73,5.9,55.0,1
+STU-00848,Engineering,Engineering,Female,0,Undergraduate,20,69.63,52.63,6.27,36.7,0
+STU-00849,Engineering,Engineering,Female,0,Undergraduate,4,55.47,47.77,5.37,61.13,0
+STU-00850,Health,Health,Prefer not to say,1,Postgraduate,38,77.83,45.13,5.8,29.57,0
+STU-00851,Business,Business,Male,1,Postgraduate,35,69.17,57.6,6.03,42.7,0
+STU-00852,Computing,Technology,Female,1,Undergraduate,4,57.87,57.73,5.97,57.7,0
+STU-00853,Engineering,Engineering,Female,1,Undergraduate,6,49.97,53.4,5.9,58.97,0
+STU-00854,Health,Health,Male,1,Postgraduate,40,70.3,51.03,5.83,40.27,0
+STU-00855,Health,Health,Male,0,Undergraduate,43,65.77,53.83,6.37,49.87,0
+STU-00856,Social Sciences,Social Sciences,Male,0,Undergraduate,35,70.1,49.5,5.2,41.87,0
+STU-00857,Business,Business,Female,0,Undergraduate,28,64.2,49.57,5.93,52.43,0
+STU-00858,Engineering,Engineering,Male,0,Undergraduate,31,71.73,46.13,6.2,54.37,0
+STU-00859,Arts,Humanities,Female,0,Postgraduate,13,68.07,50.37,5.4,53.07,0
+STU-00860,Health,Health,Male,1,Undergraduate,7,63.17,52.97,5.53,52.3,0
+STU-00861,Computing,Technology,Male,0,Undergraduate,48,77.13,48.8,6.17,53.87,0
+STU-00862,Health,Health,Female,0,Undergraduate,6,59.93,53.43,5.4,46.87,0
+STU-00863,Social Sciences,Social Sciences,Female,0,Undergraduate,22,59.3,61.73,6.0,52.47,0
+STU-00864,Business,Business,Female,0,Undergraduate,48,79.23,35.73,7.03,51.07,0
+STU-00865,Health,Health,Male,0,Undergraduate,10,68.57,44.93,5.5,58.17,0
+STU-00866,Social Sciences,Social Sciences,Non-binary,0,Postgraduate,2,64.1,49.0,7.1,62.87,0
+STU-00867,Social Sciences,Social Sciences,Female,0,Postgraduate,12,76.23,39.6,6.07,46.83,0
+STU-00868,Arts,Humanities,Female,0,Undergraduate,38,75.1,51.6,6.37,40.23,1
+STU-00869,Business,Business,Male,1,Postgraduate,28,62.37,55.53,6.27,50.9,0
+STU-00870,Business,Business,Female,0,Undergraduate,33,68.5,44.07,6.83,43.7,0
+STU-00871,Business,Business,Female,0,Undergraduate,32,71.93,47.63,5.2,43.4,0
+STU-00872,Computing,Technology,Male,0,Undergraduate,38,78.97,43.43,6.8,42.27,0
+STU-00873,Social Sciences,Social Sciences,Female,0,Undergraduate,5,71.23,43.43,5.83,50.53,0
+STU-00874,Health,Health,Male,0,Undergraduate,15,71.13,54.27,5.3,44.43,0
+STU-00875,Arts,Humanities,Female,0,Undergraduate,36,78.5,51.53,6.3,49.57,0
+STU-00876,Computing,Technology,Male,0,Postgraduate,43,74.87,43.0,6.7,47.5,0
+STU-00877,Arts,Humanities,Male,0,Undergraduate,21,76.7,56.17,5.73,58.0,0
+STU-00878,Computing,Technology,Female,1,Undergraduate,29,68.33,53.13,6.57,25.93,0
+STU-00879,Health,Health,Male,0,Undergraduate,45,76.57,41.7,6.53,38.5,0
+STU-00880,Business,Business,Male,1,Postgraduate,24,70.97,43.23,5.83,33.1,0
+STU-00881,Social Sciences,Social Sciences,Male,0,Undergraduate,46,88.07,30.37,6.7,44.87,0
+STU-00882,Business,Business,Male,0,Undergraduate,1,62.47,43.53,6.07,48.73,1
+STU-00883,Business,Business,Male,1,Undergraduate,20,70.37,52.33,6.17,39.77,0
+STU-00884,Health,Health,Prefer not to say,1,Undergraduate,15,66.87,46.8,6.97,48.93,0
+STU-00885,Engineering,Engineering,Male,0,Postgraduate,3,68.53,44.03,6.47,41.77,0
+STU-00886,Social Sciences,Social Sciences,Female,0,Postgraduate,22,77.07,49.47,6.1,45.93,0
+STU-00887,Engineering,Engineering,Female,0,Undergraduate,26,73.27,43.7,7.17,40.57,0
+STU-00888,Arts,Humanities,Non-binary,0,Undergraduate,9,76.23,35.97,6.83,45.07,0
+STU-00889,Arts,Humanities,Female,0,Undergraduate,48,74.17,49.3,6.53,43.03,0
+STU-00890,Health,Health,Male,0,Undergraduate,5,64.33,54.13,5.8,58.5,1
+STU-00891,Social Sciences,Social Sciences,Male,0,Undergraduate,17,72.93,55.37,5.77,46.37,0
+STU-00892,Social Sciences,Social Sciences,Female,0,Undergraduate,24,80.3,51.97,6.2,52.5,0
+STU-00893,Business,Business,Female,0,Undergraduate,6,68.93,38.03,6.13,58.8,0
+STU-00894,Computing,Technology,Male,0,Undergraduate,26,70.83,53.23,6.03,51.23,0
+STU-00895,Social Sciences,Social Sciences,Female,0,Postgraduate,11,66.67,43.87,6.13,41.73,0
+STU-00896,Arts,Humanities,Male,0,Postgraduate,36,71.5,45.4,6.57,51.23,0
+STU-00897,Arts,Humanities,Male,1,Postgraduate,42,71.73,57.2,5.8,36.27,1
+STU-00898,Business,Business,Female,1,Undergraduate,5,52.4,58.13,5.7,40.7,1
+STU-00899,Social Sciences,Social Sciences,Female,0,Undergraduate,28,72.8,37.0,5.9,35.5,0
+STU-00900,Arts,Humanities,Female,0,Undergraduate,45,70.5,48.53,6.5,37.03,0
